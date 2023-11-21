@@ -1,0 +1,3014 @@
+[
+ {
+  "State": "Andhra Pradesh",
+  "city": "Amaravati",
+  "So2": 14,
+  "No2": 12,
+  "pm10": 55,
+  "pm2.5": 28
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Anatapur",
+  "So2": 7,
+  "No2": 16,
+  "pm10": 64,
+  "pm2.5": 30
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Chittor",
+  "So2": 5,
+  "No2": 14,
+  "pm10": 46,
+  "pm2.5": 25
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Eluru",
+  "So2": 5,
+  "No2": 17,
+  "pm10": 63,
+  "pm2.5": 30
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Guntur",
+  "So2": 5,
+  "No2": 17,
+  "pm10": 60,
+  "pm2.5": 29
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Kadapa",
+  "So2": 5,
+  "No2": 14,
+  "pm10": 53,
+  "pm2.5": 26
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Kakinada",
+  "So2": 8,
+  "No2": 14,
+  "pm10": 61,
+  "pm2.5": 28
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Kurnool",
+  "So2": 6,
+  "No2": 15,
+  "pm10": 58,
+  "pm2.5": 26
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Nellore",
+  "So2": 5,
+  "No2": 17,
+  "pm10": 55,
+  "pm2.5": 23
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Ongole",
+  "So2": 5,
+  "No2": 17,
+  "pm10": 53,
+  "pm2.5": 18
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Rajahmundry",
+  "So2": 8,
+  "No2": 15,
+  "pm10": 72,
+  "pm2.5": 33
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Srikakulam",
+  "So2": 9,
+  "No2": 20,
+  "pm10": 77,
+  "pm2.5": 27
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Tirupati",
+  "So2": 6,
+  "No2": 22,
+  "pm10": 51,
+  "pm2.5": 27
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Vijayawada",
+  "So2": 5,
+  "No2": 17,
+  "pm10": 65,
+  "pm2.5": 34
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Visakhapatnam",
+  "So2": 12,
+  "No2": 35,
+  "pm10": 103,
+  "pm2.5": 41
+ },
+ {
+  "State": "Andhra Pradesh",
+  "city": "Vizianagaram",
+  "So2": 9,
+  "No2": 19,
+  "pm10": 72,
+  "pm2.5": 27
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "city": "Itanagar",
+  "So2": 3,
+  "No2": 5,
+  "pm10": 67
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "city": "Naharlagun",
+  "So2": 27,
+  "No2": 6,
+  "pm10": 54,
+  "pm2.5": 15
+ },
+ {
+  "State": "Assam",
+  "city": "Bongaigaon",
+  "So2": 4,
+  "No2": 11,
+  "pm10": 40
+ },
+ {
+  "State": "Assam",
+  "city": "Daranga",
+  "So2": 6,
+  "No2": 13,
+  "pm10": 54
+ },
+ {
+  "State": "Assam",
+  "city": "Dibrugarh",
+  "So2": 6,
+  "No2": 11,
+  "pm10": 39
+ },
+ {
+  "State": "Assam",
+  "city": "Golaghat",
+  "So2": 6,
+  "No2": 12,
+  "pm10": 50
+ },
+ {
+  "State": "Assam",
+  "city": "Guwahati",
+  "So2": 26,
+  "No2": 11,
+  "pm10": 114,
+  "pm2.5": 60
+ },
+ {
+  "State": "Assam",
+  "city": "Magherita",
+  "So2": 6,
+  "No2": 11,
+  "pm10": 41
+ },
+ {
+  "State": "Assam",
+  "city": "Nagaon",
+  "So2": 6,
+  "No2": 14,
+  "pm10": 101
+ },
+ {
+  "State": "Assam",
+  "city": "Nalbari",
+  "So2": 6,
+  "No2": 14,
+  "pm10": 92,
+  "pm2.5": 42
+ },
+ {
+  "State": "Assam",
+  "city": "North Lakhimpur",
+  "So2": 6,
+  "No2": 14,
+  "pm10": 57
+ },
+ {
+  "State": "Assam",
+  "city": "Silcher",
+  "So2": 8,
+  "No2": 9,
+  "pm10": 46,
+  "pm2.5": 37
+ },
+ {
+  "State": "Assam",
+  "city": "Sivasagar",
+  "So2": 6,
+  "No2": 12,
+  "pm10": 47
+ },
+ {
+  "State": "Assam",
+  "city": "Tezpur",
+  "So2": 6,
+  "No2": 14,
+  "pm10": 97
+ },
+ {
+  "State": "Assam",
+  "city": "Tinsukia",
+  "So2": 6,
+  "No2": 11,
+  "pm10": 47
+ },
+ {
+  "State": "Bihar",
+  "city": "Gaya",
+  "So2": 11,
+  "No2": 14,
+  "pm10": 79,
+  "pm2.5": 52
+ },
+ {
+  "State": "Bihar",
+  "city": "Hajipur",
+  "So2": 5,
+  "No2": 11,
+  "pm10": 148,
+  "pm2.5": 60
+ },
+ {
+  "State": "Bihar",
+  "city": "Muzaffarpur",
+  "So2": 6,
+  "No2": 13,
+  "pm10": 142,
+  "pm2.5": 80
+ },
+ {
+  "State": "Bihar",
+  "city": "Patna",
+  "So2": 8,
+  "No2": 39,
+  "pm10": 150,
+  "pm2.5": 73
+ },
+ {
+  "State": "Chandigarh (UT)",
+  "city": "Chandigarh",
+  "So2": 6,
+  "No2": 24,
+  "pm10": 98,
+  "pm2.5": 49
+ },
+ {
+  "State": "Chattisgarh",
+  "city": "Bilaspur",
+  "So2": 8,
+  "No2": 13,
+  "pm10": 71,
+  "pm2.5": 28
+ },
+ {
+  "State": "Chattisgarh",
+  "city": "Durg-Bhillainagar",
+  "So2": 7,
+  "No2": 11,
+  "pm10": 61,
+  "pm2.5": 31
+ },
+ {
+  "State": "Chattisgarh",
+  "city": "Korba",
+  "So2": 8,
+  "No2": 18,
+  "pm10": 61
+ },
+ {
+  "State": "Chattisgarh",
+  "city": "Raigarh",
+  "pm10": 65,
+  "pm2.5": 28
+ },
+ {
+  "State": "Chattisgarh",
+  "city": "Raipur",
+  "So2": 13,
+  "No2": 22,
+  "pm10": 62,
+  "pm2.5": 35
+ },
+ {
+  "State": "Dadara & Nagar Haveli and Daman & Diu (UT)",
+  "city": "Daman",
+  "So2": 15,
+  "No2": 20,
+  "pm10": 84,
+  "pm2.5": 30
+ },
+ {
+  "State": "Delhi (UT)",
+  "city": "Delhi",
+  "So2": 10,
+  "No2": 42,
+  "pm10": 207,
+  "pm2.5": 107
+ },
+ {
+  "State": "Goa",
+  "city": "Amona",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 59,
+  "pm2.5": 27
+ },
+ {
+  "State": "Goa",
+  "city": "Assanora",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 58,
+  "pm2.5": 26
+ },
+ {
+  "State": "Goa",
+  "city": "Bicholim",
+  "So2": 8,
+  "No2": 13,
+  "pm10": 61,
+  "pm2.5": 28
+ },
+ {
+  "State": "Goa",
+  "city": "Codli",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 62,
+  "pm2.5": 28
+ },
+ {
+  "State": "Goa",
+  "city": "Cuncolim",
+  "So2": 6,
+  "No2": 13,
+  "pm10": 67,
+  "pm2.5": 32
+ },
+ {
+  "State": "Goa",
+  "city": "Honda",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 61,
+  "pm2.5": 28
+ },
+ {
+  "State": "Goa",
+  "city": "Kundaim",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 62,
+  "pm2.5": 28
+ },
+ {
+  "State": "Goa",
+  "city": "Mapusa",
+  "So2": 2,
+  "No2": 16,
+  "pm10": 57,
+  "pm2.5": 24
+ },
+ {
+  "State": "Goa",
+  "city": "Margao",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 59,
+  "pm2.5": 27
+ },
+ {
+  "State": "Goa",
+  "city": "Panaji",
+  "So2": 2,
+  "No2": 15,
+  "pm10": 73,
+  "pm2.5": 26
+ },
+ {
+  "State": "Goa",
+  "city": "Ponda",
+  "So2": 8,
+  "No2": 13,
+  "pm10": 63,
+  "pm2.5": 28
+ },
+ {
+  "State": "Goa",
+  "city": "Sanguem",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 60,
+  "pm2.5": 28
+ },
+ {
+  "State": "Goa",
+  "city": "Tilamol",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 62,
+  "pm2.5": 29
+ },
+ {
+  "State": "Goa",
+  "city": "Tuem",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 59,
+  "pm2.5": 27
+ },
+ {
+  "State": "Goa",
+  "city": "Usgao-Pale",
+  "So2": 8,
+  "No2": 13,
+  "pm10": 64,
+  "pm2.5": 29
+ },
+ {
+  "State": "Goa",
+  "city": "Vasco",
+  "So2": 2,
+  "No2": 15,
+  "pm10": 58,
+  "pm2.5": 32
+ },
+ {
+  "State": "Gujarat",
+  "city": "Ahmedabad",
+  "So2": 17,
+  "No2": 34,
+  "pm10": 123,
+  "pm2.5": 46
+ },
+ {
+  "State": "Gujarat",
+  "city": "Ankleshwar",
+  "So2": 40,
+  "No2": 26,
+  "pm10": 120,
+  "pm2.5": 63
+ },
+ {
+  "State": "Gujarat",
+  "city": "Gandhinagar",
+  "So2": 9,
+  "No2": 15,
+  "pm10": 78,
+  "pm2.5": 40
+ },
+ {
+  "State": "Gujarat",
+  "city": "Jamnagar",
+  "So2": 14,
+  "No2": 18,
+  "pm10": 116,
+  "pm2.5": 28
+ },
+ {
+  "State": "Gujarat",
+  "city": "Nandesari",
+  "So2": 6,
+  "No2": 8,
+  "pm10": 72,
+  "pm2.5": 51
+ },
+ {
+  "State": "Gujarat",
+  "city": "Navarangpur",
+  "So2": 12,
+  "No2": 16,
+  "pm10": 97,
+  "pm2.5": 23
+ },
+ {
+  "State": "Gujarat",
+  "city": "Rajkot",
+  "So2": 14,
+  "No2": 18,
+  "pm10": 118,
+  "pm2.5": 30
+ },
+ {
+  "State": "Gujarat",
+  "city": "Surat",
+  "So2": 20,
+  "No2": 24,
+  "pm10": 100,
+  "pm2.5": 35
+ },
+ {
+  "State": "Gujara",
+  "city": "Saraspur",
+  "So2": 13,
+  "No2": 17,
+  "pm10": 120,
+  "pm2.5": 27
+ },
+ {
+  "State": "Gujarat",
+  "city": "Vadodara",
+  "So2": 15,
+  "No2": 19,
+  "pm10": 111,
+  "pm2.5": 30
+ },
+ {
+  "State": "Gujarat",
+  "city": "Vapi",
+  "So2": 16,
+  "No2": 24,
+  "pm10": 114,
+  "pm2.5": 51
+ },
+ {
+  "State": "Gujarat",
+  "city": "Vatva",
+  "So2": 28,
+  "No2": 68,
+  "pm10": 160,
+  "pm2.5": 67
+ },
+ {
+  "State": "Haryana",
+  "city": "Ambala",
+  "So2": 9,
+  "No2": 21,
+  "pm10": 122,
+  "pm2.5": 62
+ },
+ {
+  "State": "Haryana",
+  "city": "Bahadurgarh",
+  "So2": 13,
+  "No2": 28,
+  "pm2.5": 91
+ },
+ {
+  "State": "Haryana",
+  "city": "Ballabgarh",
+  "So2": 9,
+  "No2": 35,
+  "pm10": 165,
+  "pm2.5": 82
+ },
+ {
+  "State": "Haryana",
+  "city": "Bhiwani",
+  "So2": 13,
+  "No2": 23,
+  "pm10": 135,
+  "pm2.5": 50
+ },
+ {
+  "State": "Haryana",
+  "city": "Charkhi Dadri",
+  "So2": 5,
+  "No2": 28,
+  "pm10": 156,
+  "pm2.5": 79
+ },
+ {
+  "State": "Haryana",
+  "city": "Dharuhera",
+  "So2": 18,
+  "No2": 26,
+  "pm10": 187,
+  "pm2.5": 77
+ },
+ {
+  "State": "Haryana",
+  "city": "Faridabad",
+  "So2": 10,
+  "No2": 35,
+  "pm10": 230,
+  "pm2.5": 98
+ },
+ {
+  "State": "Haryana",
+  "city": "Fatehabad",
+  "So2": 10,
+  "No2": 22,
+  "pm10": 153,
+  "pm2.5": 61
+ },
+ {
+  "State": "Haryana",
+  "city": "Gurgaon",
+  "So2": 6,
+  "No2": 20,
+  "pm10": 174,
+  "pm2.5": 93
+ },
+ {
+  "State": "Haryana",
+  "city": "Hissar",
+  "So2": 12,
+  "No2": 30,
+  "pm10": 162,
+  "pm2.5": 92
+ },
+ {
+  "State": "Haryana",
+  "city": "Jind",
+  "So2": 10,
+  "No2": 24,
+  "pm10": 145,
+  "pm2.5": 88
+ },
+ {
+  "State": "Haryana",
+  "city": "Kaithal",
+  "So2": 21,
+  "No2": 17,
+  "pm10": 144,
+  "pm2.5": 58
+ },
+ {
+  "State": "Haryana",
+  "city": "Karnal",
+  "So2": 26,
+  "No2": 20,
+  "pm10": 119,
+  "pm2.5": 60
+ },
+ {
+  "State": "Haryana",
+  "city": "Kurukshetra",
+  "So2": 10,
+  "No2": 29,
+  "pm10": 142,
+  "pm2.5": 69
+ },
+ {
+  "State": "Haryana",
+  "city": "Mandikhera",
+  "So2": 15,
+  "No2": 21,
+  "pm10": 92,
+  "pm2.5": 52
+ },
+ {
+  "State": "Haryana",
+  "city": "Manesar",
+  "So2": 8,
+  "No2": 9,
+  "pm10": 164,
+  "pm2.5": 96
+ },
+ {
+  "State": "Haryana",
+  "city": "Narnaul",
+  "So2": 7,
+  "No2": 25,
+  "pm10": 175,
+  "pm2.5": 69
+ },
+ {
+  "State": "Haryana",
+  "city": "Palwal",
+  "So2": 10,
+  "No2": 11,
+  "pm10": 127,
+  "pm2.5": 37
+ },
+ {
+  "State": "Haryana",
+  "city": "Panchukula Urban Estate",
+  "So2": 10,
+  "No2": 23,
+  "pm2.5": 49
+ },
+ {
+  "State": "Haryana",
+  "city": "Panipat",
+  "So2": 39,
+  "No2": 15,
+  "pm10": 196,
+  "pm2.5": 61
+ },
+ {
+  "State": "Haryana",
+  "city": "Rohtak",
+  "So2": 10,
+  "No2": 70,
+  "pm2.5": 90
+ },
+ {
+  "State": "Haryana",
+  "city": "Sirsa",
+  "So2": 15,
+  "No2": 26,
+  "pm10": 129,
+  "pm2.5": 57
+ },
+ {
+  "State": "Haryana",
+  "city": "Sonepat",
+  "So2": 9,
+  "No2": 24,
+  "pm10": 319,
+  "pm2.5": 55
+ },
+ {
+  "State": "Haryana",
+  "city": "Yamuna Nagar",
+  "So2": 7,
+  "No2": 24,
+  "pm10": 166,
+  "pm2.5": 79
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Baddi",
+  "So2": 2,
+  "No2": 13,
+  "pm10": 139,
+  "pm2.5": 45
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Damtal",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 67,
+  "pm2.5": 33
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Dharamshala",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 42,
+  "pm2.5": 22
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Kala Amb",
+  "So2": 4,
+  "No2": 15,
+  "pm10": 118,
+  "pm2.5": 51
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Manali",
+  "So2": 2,
+  "No2": 7,
+  "pm10": 41,
+  "pm2.5": 13
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Nalagarh",
+  "So2": 2,
+  "No2": 12,
+  "pm10": 92,
+  "pm2.5": 29
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Parwanoo",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 38,
+  "pm2.5": 11
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Poanta Sahib",
+  "So2": 3,
+  "No2": 13,
+  "pm10": 90,
+  "pm2.5": 44
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Shimla",
+  "So2": 2,
+  "No2": 6,
+  "pm10": 58,
+  "pm2.5": 22
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Sunder Nagar",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 52,
+  "pm2.5": 23
+ },
+ {
+  "State": "Himachal Pradesh",
+  "city": "Una",
+  "So2": 2,
+  "No2": 7,
+  "pm10": 53,
+  "pm2.5": 20
+ },
+ {
+  "State": "Jammu & Kashmir (UT)",
+  "city": "Jammu",
+  "So2": 3,
+  "No2": 20,
+  "pm10": 172,
+  "pm2.5": 31
+ },
+ {
+  "State": "Jammu & Kashmir (UT)",
+  "city": "Pulwama (K)",
+  "So2": 5,
+  "No2": 15,
+  "pm10": 128
+ },
+ {
+  "State": "Jammu & Kashmir (UT)",
+  "city": "Srinagar (K)",
+  "So2": 10,
+  "No2": 14,
+  "pm10": 97,
+  "pm2.5": 32
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Barajamda",
+  "So2": 15,
+  "No2": 20,
+  "pm10": 72
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Dhanbad",
+  "So2": 13,
+  "No2": 35,
+  "pm10": 247
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Jamshedpur",
+  "So2": 35,
+  "No2": 44,
+  "pm10": 112
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Jharia",
+  "So2": 14,
+  "No2": 36,
+  "pm10": 314
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Jorapokhar",
+  "So2": 23,
+  "No2": 7,
+  "pm10": 97
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Ranchi",
+  "So2": 18,
+  "No2": 36,
+  "pm10": 110,
+  "pm2.5": 105
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Saraikela",
+  "So2": 36,
+  "No2": 44,
+  "pm10": 115
+ },
+ {
+  "State": "Jharkhand",
+  "city": "Sindri",
+  "So2": 14,
+  "No2": 35,
+  "pm10": 179
+ },
+ {
+  "State": "Karnataka",
+  "city": "Bagalkote",
+  "So2": 7,
+  "No2": 11,
+  "pm10": 41,
+  "pm2.5": 21
+ },
+ {
+  "State": "Karnataka",
+  "city": "Bangalore",
+  "So2": 5,
+  "No2": 21,
+  "pm10": 67,
+  "pm2.5": 31
+ },
+ {
+  "State": "Karnataka",
+  "city": "Belgaum",
+  "So2": 2,
+  "No2": 11,
+  "pm10": 81,
+  "pm2.5": 25
+ },
+ {
+  "State": "Karnataka",
+  "city": "Bidar",
+  "So2": 26,
+  "No2": 7,
+  "pm10": 71,
+  "pm2.5": 39
+ },
+ {
+  "State": "Karnataka",
+  "city": "Bijapur \/ Vijayapura",
+  "So2": 5,
+  "No2": 11,
+  "pm10": 50,
+  "pm2.5": 23
+ },
+ {
+  "State": "Karnataka",
+  "city": "Chamarajanagar",
+  "So2": 4,
+  "No2": 17,
+  "pm10": 49,
+  "pm2.5": 24
+ },
+ {
+  "State": "Karnataka",
+  "city": "Chikkaballapur",
+  "So2": 6,
+  "No2": 25,
+  "pm10": 57,
+  "pm2.5": 27
+ },
+ {
+  "State": "Karnataka",
+  "city": "Chikkamagaluru",
+  "So2": 4,
+  "No2": 17,
+  "pm10": 40,
+  "pm2.5": 23
+ },
+ {
+  "State": "Karnataka",
+  "city": "Chitradurga",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 38,
+  "pm2.5": 9
+ },
+ {
+  "State": "Karnataka",
+  "city": "Devanagere",
+  "So2": 10,
+  "No2": 14,
+  "pm10": 54,
+  "pm2.5": 15
+ },
+ {
+  "State": "Karnataka",
+  "city": "Gadag",
+  "So2": 30,
+  "No2": 12,
+  "pm10": 32,
+  "pm2.5": 30
+ },
+ {
+  "State": "Karnataka",
+  "city": "Gulbarga \/ Kalaburgi",
+  "So2": 13,
+  "No2": 24,
+  "pm10": 79,
+  "pm2.5": 42
+ },
+ {
+  "State": "Karnataka",
+  "city": "Hassan",
+  "So2": 15,
+  "No2": 21,
+  "pm10": 60,
+  "pm2.5": 22
+ },
+ {
+  "State": "Karnataka",
+  "city": "Hubli-Dharwad",
+  "So2": 7,
+  "No2": 22,
+  "pm10": 71,
+  "pm2.5": 29
+ },
+ {
+  "State": "Karnataka",
+  "city": "Kolar",
+  "So2": 33,
+  "No2": 14,
+  "pm10": 50,
+  "pm2.5": 28
+ },
+ {
+  "State": "Karnataka",
+  "city": "Koppal",
+  "So2": 13,
+  "No2": 12,
+  "pm10": 40,
+  "pm2.5": 17
+ },
+ {
+  "State": "Karnataka",
+  "city": "Madikeri",
+  "So2": 15,
+  "No2": 5,
+  "pm10": 36,
+  "pm2.5": 18
+ },
+ {
+  "State": "Karnataka",
+  "city": "Mandya",
+  "So2": 2,
+  "No2": 13,
+  "pm10": 34,
+  "pm2.5": 19
+ },
+ {
+  "State": "Karnataka",
+  "city": "Mangalore",
+  "So2": 19,
+  "No2": 26,
+  "pm10": 51,
+  "pm2.5": 26
+ },
+ {
+  "State": "Karnataka",
+  "city": "Mysore",
+  "So2": 4,
+  "No2": 19,
+  "pm10": 46,
+  "pm2.5": 20
+ },
+ {
+  "State": "Karnataka",
+  "city": "Raichur",
+  "So2": 7,
+  "No2": 22,
+  "pm10": 90,
+  "pm2.5": 33
+ },
+ {
+  "State": "Karnataka",
+  "city": "Ramanagara",
+  "So2": 18,
+  "No2": 18,
+  "pm10": 52,
+  "pm2.5": 27
+ },
+ {
+  "State": "Karnataka",
+  "city": "Shimaga \/ Shivamogga",
+  "So2": 3,
+  "No2": 21,
+  "pm10": 45,
+  "pm2.5": 23
+ },
+ {
+  "State": "Karnataka",
+  "city": "Tumkuru",
+  "So2": 2,
+  "No2": 15,
+  "pm10": 62,
+  "pm2.5": 31
+ },
+ {
+  "State": "Karnataka",
+  "city": "Udupi",
+  "So2": 19,
+  "No2": 14,
+  "pm10": 33
+ },
+ {
+  "State": "Karnataka",
+  "city": "Yadgir",
+  "So2": 12,
+  "No2": 14,
+  "pm10": 59,
+  "pm2.5": 29
+ },
+ {
+  "State": "Kerala",
+  "city": "Alappuzha",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 52
+ },
+ {
+  "State": "Kerala",
+  "city": "Eloor",
+  "So2": 13,
+  "No2": 14,
+  "pm10": 47,
+  "pm2.5": 25
+ },
+ {
+  "State": "Kerala",
+  "city": "Ernakulam",
+  "So2": 5,
+  "No2": 8,
+  "pm10": 50,
+  "pm2.5": 26
+ },
+ {
+  "State": "Kerala",
+  "city": "Kannur",
+  "So2": 2,
+  "No2": 19,
+  "pm10": 73,
+  "pm2.5": 34
+ },
+ {
+  "State": "Kerala",
+  "city": "Kochi",
+  "So2": 6,
+  "No2": 11,
+  "pm10": 53,
+  "pm2.5": 30
+ },
+ {
+  "State": "Kerala",
+  "city": "Kollam",
+  "So2": 3,
+  "No2": 24,
+  "pm10": 77,
+  "pm2.5": 38
+ },
+ {
+  "State": "Kerala",
+  "city": "Kottayam",
+  "So2": 2,
+  "No2": 12,
+  "pm10": 38
+ },
+ {
+  "State": "Kerala",
+  "city": "Kozhikode",
+  "So2": 3,
+  "No2": 5,
+  "pm10": 51,
+  "pm2.5": 19
+ },
+ {
+  "State": "Kerala",
+  "city": "Mallappuram",
+  "So2": 2,
+  "No2": 16,
+  "pm10": 31,
+  "pm2.5": 26
+ },
+ {
+  "State": "Kerala",
+  "city": "Palakkad",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 57,
+  "pm2.5": 33
+ },
+ {
+  "State": "Kerala",
+  "city": "Pathanamthitta",
+  "So2": 2,
+  "No2": 13,
+  "pm10": 33
+ },
+ {
+  "State": "Kerala",
+  "city": "Thiruvanantapuram",
+  "So2": 6,
+  "No2": 8,
+  "pm10": 47,
+  "pm2.5": 23
+ },
+ {
+  "State": "Kerala",
+  "city": "Thrissur",
+  "So2": 23,
+  "No2": 5,
+  "pm10": 49,
+  "pm2.5": 38
+ },
+ {
+  "State": "Kerala",
+  "city": "Wayanad",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 29,
+  "pm2.5": 14
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Amlai",
+  "So2": 10,
+  "No2": 22,
+  "pm10": 72,
+  "pm2.5": 31
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Bhopal",
+  "So2": 17,
+  "No2": 24,
+  "pm10": 119,
+  "pm2.5": 45
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Chindwara",
+  "So2": 5,
+  "No2": 13,
+  "pm10": 66,
+  "pm2.5": 28
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Damoh",
+  "No2": 14,
+  "pm10": 62,
+  "pm2.5": 38
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Dewas",
+  "So2": 12,
+  "No2": 20,
+  "pm10": 83,
+  "pm2.5": 37
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Gwalior",
+  "So2": 16,
+  "No2": 23,
+  "pm10": 115,
+  "pm2.5": 50
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Indore",
+  "So2": 13,
+  "No2": 35,
+  "pm10": 105,
+  "pm2.5": 44
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Jabalpur",
+  "So2": 12,
+  "No2": 33,
+  "pm10": 114,
+  "pm2.5": 44
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Katni",
+  "So2": 14,
+  "No2": 26,
+  "pm10": 142,
+  "pm2.5": 55
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Maihar",
+  "So2": 11,
+  "No2": 11,
+  "pm10": 57,
+  "pm2.5": 33
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Mandideep",
+  "So2": 30,
+  "No2": 30,
+  "pm10": 98,
+  "pm2.5": 43
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Nagda",
+  "So2": 6,
+  "No2": 5,
+  "pm10": 41,
+  "pm2.5": 19
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Pithampur",
+  "So2": 16,
+  "No2": 21,
+  "pm10": 89,
+  "pm2.5": 45
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Ratlam",
+  "So2": 13,
+  "No2": 20,
+  "pm10": 98,
+  "pm2.5": 42
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Rewa",
+  "So2": 9,
+  "No2": 18,
+  "pm10": 70,
+  "pm2.5": 34
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Sagar",
+  "So2": 7,
+  "No2": 18,
+  "pm10": 80,
+  "pm2.5": 34
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Satna",
+  "So2": 15,
+  "No2": 9,
+  "pm10": 80,
+  "pm2.5": 26
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Singrauli",
+  "So2": 29,
+  "No2": 41,
+  "pm10": 182,
+  "pm2.5": 77
+ },
+ {
+  "State": "Madhya Pradesh",
+  "city": "Ujjain",
+  "So2": 7,
+  "No2": 15,
+  "pm10": 113,
+  "pm2.5": 42
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Akola",
+  "So2": 14,
+  "No2": 14,
+  "pm10": 63
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Ambernath",
+  "So2": 20,
+  "No2": 53,
+  "pm10": 77
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Amravati",
+  "So2": 13,
+  "No2": 19,
+  "pm10": 64
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Aurangabad",
+  "So2": 17,
+  "No2": 28,
+  "pm10": 80,
+  "pm2.5": 34
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Badlapur",
+  "So2": 21,
+  "No2": 56,
+  "pm10": 96
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Bhiwandi",
+  "So2": 29,
+  "No2": 42,
+  "pm10": 62
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Chandrapur",
+  "So2": 9,
+  "No2": 19,
+  "pm10": 105,
+  "pm2.5": 44
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Dombivali \/ Kalyan",
+  "So2": 29,
+  "No2": 16,
+  "pm10": 121,
+  "pm2.5": 59
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Jalgaon",
+  "So2": 12,
+  "No2": 22,
+  "pm10": 60
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Jalna",
+  "So2": 10,
+  "No2": 41,
+  "pm10": 93
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Kolhapur",
+  "So2": 17,
+  "No2": 28,
+  "pm10": 85
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Latur",
+  "So2": 7,
+  "No2": 17,
+  "pm10": 57
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Mumbai",
+  "So2": 14,
+  "No2": 23,
+  "pm10": 106,
+  "pm2.5": 47
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Nagpur",
+  "So2": 10,
+  "No2": 25,
+  "pm10": 72,
+  "pm2.5": 36
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Nanded",
+  "So2": 18,
+  "No2": 31,
+  "pm10": 54
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Nashik",
+  "So2": 4,
+  "No2": 27,
+  "pm10": 59,
+  "pm2.5": 40
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Navi Mumbai",
+  "So2": 15,
+  "No2": 35,
+  "pm10": 92,
+  "pm2.5": 52
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Pimpri-Chinchwad",
+  "So2": 21,
+  "No2": 41,
+  "pm10": 84
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Pune",
+  "So2": 26,
+  "No2": 38,
+  "pm10": 108,
+  "pm2.5": 45
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Roha",
+  "So2": 10,
+  "No2": 33,
+  "pm10": 128
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Sangli",
+  "So2": 9,
+  "No2": 37,
+  "pm10": 72
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Solapur",
+  "So2": 11,
+  "No2": 16,
+  "pm10": 72,
+  "pm2.5": 36
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Thane",
+  "So2": 11,
+  "No2": 46,
+  "pm10": 135
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Ulhas Nagar",
+  "So2": 21,
+  "No2": 56,
+  "pm10": 81
+ },
+ {
+  "State": "Maharashtra",
+  "city": "Vasai virar",
+  "pm10": 147,
+  "pm2.5": 41
+ },
+ {
+  "State": "Manipur",
+  "city": "Imphal",
+  "So2": 6,
+  "No2": 26,
+  "pm10": 123,
+  "pm2.5": 48
+ },
+ {
+  "State": "Meghalaya",
+  "city": "Byraihat",
+  "So2": 13,
+  "No2": 14,
+  "pm10": 226,
+  "pm2.5": 30
+ },
+ {
+  "State": "Meghalaya",
+  "city": "Dawki",
+  "No2": 8,
+  "pm10": 37,
+  "pm2.5": 8
+ },
+ {
+  "State": "Meghalaya",
+  "city": "Khlihriat",
+  "So2": 4,
+  "No2": 7,
+  "pm10": 42,
+  "pm2.5": 7
+ },
+ {
+  "State": "Meghalaya",
+  "city": "Nongstoin",
+  "So2": 3,
+  "No2": 8,
+  "pm10": 35,
+  "pm2.5": 7
+ },
+ {
+  "State": "Meghalaya",
+  "city": "Shillong",
+  "So2": 10,
+  "No2": 6,
+  "pm10": 27,
+  "pm2.5": 12
+ },
+ {
+  "State": "Meghalaya",
+  "city": "Tura",
+  "So2": 3,
+  "No2": 7,
+  "pm10": 37,
+  "pm2.5": 6
+ },
+ {
+  "State": "Meghalaya",
+  "city": "Umaim",
+  "So2": 4,
+  "No2": 9,
+  "pm10": 101,
+  "pm2.5": 12
+ },
+ {
+  "State": "Mizoram",
+  "city": "Aizwal",
+  "So2": 10,
+  "No2": 3,
+  "pm10": 41,
+  "pm2.5": 24
+ },
+ {
+  "State": "Mizoram",
+  "city": "Champhai",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 22,
+  "pm2.5": 15
+ },
+ {
+  "State": "Mizoram",
+  "city": "Khatla",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 25,
+  "pm2.5": 25
+ },
+ {
+  "State": "Mizoram",
+  "city": "Kolasib",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 17,
+  "pm2.5": 8
+ },
+ {
+  "State": "Mizoram",
+  "city": "Lawngtlai",
+  "So2": 2,
+  "No2": 6,
+  "pm10": 65
+ },
+ {
+  "State": "Mizoram",
+  "city": "Lunglei",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 25,
+  "pm2.5": 6
+ },
+ {
+  "State": "Mizoram",
+  "city": "Lengpui",
+  "So2": 2,
+  "No2": 7,
+  "pm10": 39,
+  "pm2.5": 39
+ },
+ {
+  "State": "Mizoram",
+  "city": "Mamit",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 32
+ },
+ {
+  "State": "Mizoram",
+  "city": "Saiha",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 37
+ },
+ {
+  "State": "Mizoram",
+  "city": "Serchhip",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 35
+ },
+ {
+  "State": "Nagaland",
+  "city": "Dimapur",
+  "So2": 2,
+  "No2": 7,
+  "pm10": 88
+ },
+ {
+  "State": "Nagaland",
+  "city": "Kohima",
+  "So2": 20,
+  "No2": 3,
+  "pm10": 77,
+  "pm2.5": 33
+ },
+ {
+  "State": "Odisha",
+  "city": "Angul",
+  "So2": 10,
+  "No2": 27,
+  "pm10": 96,
+  "pm2.5": 36
+ },
+ {
+  "State": "Odisha",
+  "city": "Balasore",
+  "So2": 4,
+  "No2": 11,
+  "pm10": 76,
+  "pm2.5": 44
+ },
+ {
+  "State": "Odisha",
+  "city": "Berhampur",
+  "So2": 5,
+  "No2": 20,
+  "pm10": 63,
+  "pm2.5": 25
+ },
+ {
+  "State": "Odisha",
+  "city": "Bhubaneshwar",
+  "So2": 2,
+  "No2": 16,
+  "pm10": 94,
+  "pm2.5": 36
+ },
+ {
+  "State": "Odisha",
+  "city": "Bonaigarh",
+  "So2": 9,
+  "No2": 12,
+  "pm10": 103,
+  "pm2.5": 39
+ },
+ {
+  "State": "Odisha",
+  "city": "Brajrajnagar",
+  "So2": 25,
+  "No2": 19,
+  "pm10": 71,
+  "pm2.5": 34
+ },
+ {
+  "State": "Odisha",
+  "city": "Cuttack",
+  "So2": 4,
+  "No2": 18,
+  "pm10": 87,
+  "pm2.5": 35
+ },
+ {
+  "State": "Odisha",
+  "city": "Jharsuguda",
+  "So2": 8,
+  "No2": 14,
+  "pm10": 102,
+  "pm2.5": 56
+ },
+ {
+  "State": "Odisha",
+  "city": "Kalinga Nagar",
+  "So2": 2,
+  "No2": 16,
+  "pm10": 115,
+  "pm2.5": 68
+ },
+ {
+  "State": "Odisha",
+  "city": "Konark",
+  "So2": 2,
+  "No2": 13,
+  "pm10": 63
+ },
+ {
+  "State": "Odisha",
+  "city": "Paradeep",
+  "So2": 16,
+  "No2": 11,
+  "pm10": 114
+ },
+ {
+  "State": "Odisha",
+  "city": "Puri",
+  "So2": 2,
+  "No2": 4,
+  "pm10": 77
+ },
+ {
+  "State": "Odisha",
+  "city": "Rajgangpur",
+  "So2": 10,
+  "No2": 13,
+  "pm10": 129,
+  "pm2.5": 42
+ },
+ {
+  "State": "Odisha",
+  "city": "Rayagada",
+  "So2": 5,
+  "No2": 16,
+  "pm10": 68,
+  "pm2.5": 33
+ },
+ {
+  "State": "Odisha",
+  "city": "Rourkela",
+  "So2": 9,
+  "No2": 12,
+  "pm10": 125,
+  "pm2.5": 48
+ },
+ {
+  "State": "Odisha",
+  "city": "Sambalpur",
+  "So2": 7,
+  "No2": 25,
+  "pm10": 103,
+  "pm2.5": 42
+ },
+ {
+  "State": "Odisha",
+  "city": "Talcher",
+  "So2": 16,
+  "No2": 29,
+  "pm10": 88,
+  "pm2.5": 40
+ },
+ {
+  "State": "Pondicherry (UT)",
+  "city": "Karaikal",
+  "So2": 2,
+  "No2": 5,
+  "pm10": 41
+ },
+ {
+  "State": "Pondicherry (UT)",
+  "city": "Pondicherry",
+  "So2": 7,
+  "No2": 11,
+  "pm10": 42,
+  "pm2.5": 20
+ },
+ {
+  "State": "Punjab",
+  "city": "Aligarh (Jagraon)",
+  "So2": 8,
+  "No2": 16,
+  "pm10": 76
+ },
+ {
+  "State": "Punjab",
+  "city": "Amritsar",
+  "So2": 14,
+  "No2": 21,
+  "pm10": 116,
+  "pm2.5": 51
+ },
+ {
+  "State": "Punjab",
+  "city": "Aspal Khurd (Tapa)",
+  "So2": 7,
+  "No2": 19,
+  "pm10": 106
+ },
+ {
+  "State": "Punjab",
+  "city": "Bara Pind (Goraya)",
+  "So2": 7,
+  "No2": 17,
+  "pm10": 87
+ },
+ {
+  "State": "Punjab",
+  "city": "Batala",
+  "So2": 7,
+  "No2": 19,
+  "pm10": 77
+ },
+ {
+  "State": "Punjab",
+  "city": "Bhatinda",
+  "So2": 6,
+  "No2": 15,
+  "pm10": 105,
+  "pm2.5": 50
+ },
+ {
+  "State": "Punjab",
+  "city": "Binjon (Garshankar)",
+  "So2": 6,
+  "No2": 15,
+  "pm10": 81
+ },
+ {
+  "State": "Punjab",
+  "city": "Bishanpura (Payal)",
+  "So2": 8,
+  "No2": 20,
+  "pm10": 137
+ },
+ {
+  "State": "Punjab",
+  "city": "Changal (Sangrur)",
+  "So2": 6,
+  "No2": 16,
+  "pm10": 99
+ },
+ {
+  "State": "Punjab",
+  "city": "Chowkimann (Jagraon)",
+  "So2": 7,
+  "No2": 16,
+  "pm10": 182
+ },
+ {
+  "State": "Punjab",
+  "city": "Dera Baba Nanak",
+  "So2": 7,
+  "No2": 13,
+  "pm10": 74
+ },
+ {
+  "State": "Punjab",
+  "city": "Dera Bassi",
+  "So2": 7,
+  "No2": 18,
+  "pm10": 100
+ },
+ {
+  "State": "Punjab",
+  "city": "Fatehpur (Samana)",
+  "So2": 6,
+  "No2": 17,
+  "pm10": 91
+ },
+ {
+  "State": "Punjab",
+  "city": "Gobindgarh Mandi Gobindgarh",
+  "So2": 10,
+  "No2": 21,
+  "pm10": 122,
+  "pm2.5": 63
+ },
+ {
+  "State": "Punjab",
+  "city": "Guru Ki Dhab (Kotkapura)",
+  "So2": 4,
+  "No2": 11,
+  "pm10": 91
+ },
+ {
+  "State": "Punjab",
+  "city": "Jaito Sarja (Batala)",
+  "So2": 6,
+  "No2": 14,
+  "pm10": 70
+ },
+ {
+  "State": "Punjab",
+  "city": "Jalandhar",
+  "So2": 13,
+  "No2": 22,
+  "pm10": 120,
+  "pm2.5": 55
+ },
+ {
+  "State": "Punjab",
+  "city": "Khanna",
+  "So2": 13,
+  "No2": 24,
+  "pm10": 105,
+  "pm2.5": 49
+ },
+ {
+  "State": "Punjab",
+  "city": "Kharaori (Sirhind)",
+  "So2": 6,
+  "No2": 19,
+  "pm10": 92
+ },
+ {
+  "State": "Punjab",
+  "city": "Kotladoom (Ajnala)",
+  "So2": 8,
+  "No2": 15,
+  "pm10": 111
+ },
+ {
+  "State": "Punjab",
+  "city": "Lakho ke Behram (Ferozpur)",
+  "So2": 4,
+  "No2": 15,
+  "pm10": 91
+ },
+ {
+  "State": "Punjab",
+  "city": "Ludhiana",
+  "So2": 10,
+  "No2": 30,
+  "pm10": 149,
+  "pm2.5": 54
+ },
+ {
+  "State": "Punjab",
+  "city": "Mukandpur (Nawashahar)",
+  "So2": 7,
+  "No2": 18,
+  "pm10": 104
+ },
+ {
+  "State": "Punjab",
+  "city": "Mureedke (Batala)",
+  "So2": 6,
+  "No2": 16,
+  "pm10": 85
+ },
+ {
+  "State": "Punjab",
+  "city": "Naudhrani (Malerkotla)",
+  "So2": 5,
+  "No2": 17,
+  "pm10": 95
+ },
+ {
+  "State": "Punjab",
+  "city": "Naya Nangal",
+  "So2": 5,
+  "No2": 15,
+  "pm10": 78
+ },
+ {
+  "State": "Punjab",
+  "city": "Patiala",
+  "So2": 6,
+  "No2": 18,
+  "pm10": 110,
+  "pm2.5": 50
+ },
+ {
+  "State": "Punjab",
+  "city": "Peer Mohammad (Jalalabad)",
+  "So2": 4,
+  "No2": 11,
+  "pm10": 85
+ },
+ {
+  "State": "Punjab",
+  "city": "Qila Bharian (Sangrur)",
+  "So2": 5,
+  "No2": 16,
+  "pm10": 94
+ },
+ {
+  "State": "Punjab",
+  "city": "Rakhra (Patiala)",
+  "So2": 6,
+  "No2": 18,
+  "pm10": 90
+ },
+ {
+  "State": "Punjab",
+  "city": "Rohila (Samrala)",
+  "So2": 8,
+  "No2": 17,
+  "pm10": 119
+ },
+ {
+  "State": "Punjab",
+  "city": "Rupnagar",
+  "So2": 11,
+  "No2": 8,
+  "pm10": 126,
+  "pm2.5": 59
+ },
+ {
+  "State": "Punjab",
+  "city": "Tirathpur (Amritsar I)",
+  "So2": 8,
+  "No2": 18,
+  "pm10": 128
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Ajmer",
+  "So2": 13,
+  "No2": 24,
+  "pm10": 96,
+  "pm2.5": 45
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Alwar",
+  "So2": 12,
+  "No2": 27,
+  "pm10": 112,
+  "pm2.5": 43
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Bharatpur",
+  "So2": 10,
+  "No2": 35,
+  "pm10": 210
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Bhiwadi",
+  "So2": 24,
+  "No2": 39,
+  "pm10": 204,
+  "pm2.5": 110
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Chittorgargh",
+  "So2": 8,
+  "No2": 24,
+  "pm10": 119
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Jaipur",
+  "So2": 10,
+  "No2": 31,
+  "pm10": 124,
+  "pm2.5": 58
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Jodhpur",
+  "So2": 7,
+  "No2": 25,
+  "pm10": 168,
+  "pm2.5": 75
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Kota",
+  "So2": 9,
+  "No2": 26,
+  "pm10": 114,
+  "pm2.5": 60
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Pali",
+  "So2": 9,
+  "No2": 20,
+  "pm10": 118,
+  "pm2.5": 58
+ },
+ {
+  "State": "Rajasthan",
+  "city": "Udaipur",
+  "So2": 11,
+  "No2": 26,
+  "pm10": 120,
+  "pm2.5": 55
+ },
+ {
+  "State": "Sikkim",
+  "city": "Chungthang",
+  "So2": 5,
+  "No2": 5,
+  "pm10": 27
+ },
+ {
+  "State": "Sikkim",
+  "city": "Gangtok",
+  "So2": 5,
+  "No2": 11,
+  "pm10": 49,
+  "pm2.5": 31
+ },
+ {
+  "State": "Sikkim",
+  "city": "Mangan",
+  "So2": 5,
+  "No2": 9,
+  "pm10": 27
+ },
+ {
+  "State": "Sikkim",
+  "city": "Namchi",
+  "So2": 5,
+  "No2": 5,
+  "pm10": 30
+ },
+ {
+  "State": "Sikkim",
+  "city": "Pelling",
+  "So2": 6,
+  "No2": 4,
+  "pm10": 29
+ },
+ {
+  "State": "Sikkim",
+  "city": "Rangpo",
+  "So2": 7,
+  "No2": 10,
+  "pm10": 64
+ },
+ {
+  "State": "Sikkim",
+  "city": "Ravangla",
+  "So2": 4,
+  "No2": 3,
+  "pm10": 23
+ },
+ {
+  "State": "Sikkim",
+  "city": "Singtam",
+  "So2": 8,
+  "No2": 9,
+  "pm10": 32
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Chennai",
+  "So2": 11,
+  "No2": 13,
+  "pm10": 58,
+  "pm2.5": 26
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Coimbatore",
+  "So2": 10,
+  "No2": 20,
+  "pm10": 47,
+  "pm2.5": 32
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Cuddalore",
+  "So2": 13,
+  "No2": 19,
+  "pm10": 48,
+  "pm2.5": 25
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Dharmapuri",
+  "So2": 8,
+  "No2": 24,
+  "pm10": 42,
+  "pm2.5": 23
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Gummidipoondi",
+  "So2": 12,
+  "No2": 13,
+  "pm10": 105,
+  "pm2.5": 45
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Madurai",
+  "So2": 13,
+  "No2": 17,
+  "pm10": 54,
+  "pm2.5": 25
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Mettur",
+  "So2": 8,
+  "No2": 25,
+  "pm10": 39,
+  "pm2.5": 22
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Nagarcoil",
+  "So2": 8,
+  "No2": 15,
+  "pm10": 39,
+  "pm2.5": 9
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Perambalur",
+  "So2": 9,
+  "No2": 13,
+  "pm10": 34,
+  "pm2.5": 15
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Salem",
+  "So2": 8,
+  "No2": 25,
+  "pm10": 40,
+  "pm2.5": 23
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Sivagangai",
+  "So2": 9,
+  "No2": 14,
+  "pm10": 35,
+  "pm2.5": 15
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Trichy",
+  "So2": 12,
+  "No2": 16,
+  "pm10": 47,
+  "pm2.5": 19
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Theni",
+  "So2": 11,
+  "No2": 17,
+  "pm10": 60,
+  "pm2.5": 26
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Tiruvannamalai",
+  "So2": 5,
+  "No2": 13,
+  "pm10": 52,
+  "pm2.5": 25
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Tiruvarur",
+  "So2": 10,
+  "No2": 14,
+  "pm10": 35,
+  "pm2.5": 16
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Villupuram",
+  "So2": 11,
+  "No2": 16,
+  "pm10": 42,
+  "pm2.5": 17
+ },
+ {
+  "State": "Tamilnadu",
+  "city": "Tuticorin \/ Thoothukudi",
+  "So2": 5,
+  "No2": 7,
+  "pm10": 67,
+  "pm2.5": 21
+ },
+ {
+  "State": "Telangana",
+  "city": "Adilabad",
+  "So2": 6,
+  "No2": 25,
+  "pm10": 71
+ },
+ {
+  "State": "Telangana",
+  "city": "Hyderabad",
+  "So2": 6,
+  "No2": 34,
+  "pm10": 89,
+  "pm2.5": 39
+ },
+ {
+  "State": "Telangana",
+  "city": "Karimnagar",
+  "So2": 7,
+  "No2": 39,
+  "pm10": 76
+ },
+ {
+  "State": "Telangana",
+  "city": "Khammam",
+  "So2": 7,
+  "No2": 39,
+  "pm10": 72
+ },
+ {
+  "State": "Telangana",
+  "city": "Kothur",
+  "So2": 9,
+  "No2": 46,
+  "pm10": 100
+ },
+ {
+  "State": "Telangana",
+  "city": "Nalgonda",
+  "So2": 6,
+  "No2": 26,
+  "pm10": 71,
+  "pm2.5": 28
+ },
+ {
+  "State": "Telangana",
+  "city": "Nizamabad",
+  "So2": 6,
+  "No2": 25,
+  "pm10": 59,
+  "pm2.5": 31
+ },
+ {
+  "State": "Telangana",
+  "city": "Patencheru",
+  "So2": 6,
+  "No2": 27,
+  "pm10": 78,
+  "pm2.5": 34
+ },
+ {
+  "State": "Telangana",
+  "city": "Ramagundum",
+  "So2": 8,
+  "No2": 46,
+  "pm10": 91,
+  "pm2.5": 97
+ },
+ {
+  "State": "Telangana",
+  "city": "Sangareddy",
+  "So2": 5,
+  "No2": 45,
+  "pm10": 82,
+  "pm2.5": 45
+ },
+ {
+  "State": "Telangana",
+  "city": "Warangal",
+  "So2": 7,
+  "No2": 35,
+  "pm10": 60,
+  "pm2.5": 60
+ },
+ {
+  "State": "Tripura",
+  "city": "Agartala",
+  "So2": 19,
+  "No2": 9,
+  "pm10": 82,
+  "pm2.5": 50
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Agra",
+  "So2": 5,
+  "No2": 20,
+  "pm10": 164,
+  "pm2.5": 85
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Aligarh",
+  "So2": 19,
+  "No2": 31,
+  "pm10": 165
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Allahabad",
+  "So2": 8,
+  "No2": 22,
+  "pm10": 133,
+  "pm2.5": 53
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Anpara",
+  "So2": 17,
+  "No2": 25,
+  "pm10": 153
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Ayodhya",
+  "So2": 5,
+  "No2": 18,
+  "pm10": 166
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Bagpat",
+  "So2": 13,
+  "No2": 28,
+  "pm10": 211,
+  "pm2.5": 94
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Bareily",
+  "So2": 26,
+  "No2": 33,
+  "pm10": 177
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Bulandshahr",
+  "So2": 15,
+  "No2": 24,
+  "pm10": 195,
+  "pm2.5": 93
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Firozabad",
+  "So2": 8,
+  "No2": 28,
+  "pm10": 162
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Gajroula",
+  "So2": 17,
+  "No2": 26,
+  "pm10": 174
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Ghaziabad",
+  "So2": 16,
+  "No2": 38,
+  "pm10": 233,
+  "pm2.5": 110
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Gorakhpur",
+  "So2": 17,
+  "No2": 26,
+  "pm10": 241
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Greater Noida",
+  "So2": 12,
+  "No2": 47,
+  "pm10": 221,
+  "pm2.5": 96
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Hapur",
+  "So2": 13,
+  "No2": 15,
+  "pm10": 165,
+  "pm2.5": 70
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Jhansi",
+  "So2": 8,
+  "No2": 18,
+  "pm10": 117
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Kanpur",
+  "So2": 12,
+  "No2": 44,
+  "pm10": 199,
+  "pm2.5": 71
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Khurja",
+  "So2": 22,
+  "No2": 28,
+  "pm10": 183
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Lucknow",
+  "So2": 9,
+  "No2": 34,
+  "pm10": 174,
+  "pm2.5": 80
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Mathura",
+  "So2": 12,
+  "No2": 27,
+  "pm10": 170
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Meerut",
+  "So2": 15,
+  "No2": 57,
+  "pm10": 199,
+  "pm2.5": 86
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Moradabad",
+  "So2": 15,
+  "No2": 21,
+  "pm10": 184,
+  "pm2.5": 95
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Muzaffarnagar",
+  "So2": 19,
+  "No2": 20,
+  "pm10": 173,
+  "pm2.5": 80
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Noida",
+  "So2": 13,
+  "No2": 40,
+  "pm10": 215,
+  "pm2.5": 99
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Raibareli",
+  "So2": 6,
+  "No2": 12,
+  "pm10": 111
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Saharanpur",
+  "So2": 13,
+  "No2": 22,
+  "pm10": 181
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Unnao",
+  "So2": 8,
+  "No2": 25,
+  "pm10": 127
+ },
+ {
+  "State": "Uttar Pradesh",
+  "city": "Varanasi",
+  "So2": 12,
+  "No2": 34,
+  "pm10": 133,
+  "pm2.5": 60
+ },
+ {
+  "State": "Uttarakhand",
+  "city": "Dehradun",
+  "So2": 22,
+  "No2": 26,
+  "pm10": 154,
+  "pm2.5": 89
+ },
+ {
+  "State": "Uttarakhand",
+  "city": "Haldwani",
+  "So2": 7,
+  "No2": 25,
+  "pm10": 110,
+  "pm2.5": 38
+ },
+ {
+  "State": "Uttarakhand",
+  "city": "Haridwar",
+  "So2": 13,
+  "No2": 20,
+  "pm10": 117,
+  "pm2.5": 81
+ },
+ {
+  "State": "Uttarakhand",
+  "city": "Kashipur",
+  "So2": 17,
+  "No2": 21,
+  "pm10": 118,
+  "pm2.5": 62
+ },
+ {
+  "State": "Uttarakhand",
+  "city": "Rishikesh",
+  "So2": 20,
+  "No2": 25,
+  "pm10": 132,
+  "pm2.5": 76
+ },
+ {
+  "State": "Uttarakhand",
+  "city": "Rudrapur",
+  "So2": 19,
+  "No2": 22,
+  "pm10": 123
+ },
+ {
+  "State": "West Bengal",
+  "city": "Alipurduar",
+  "So2": 9,
+  "No2": 34,
+  "pm10": 97
+ },
+ {
+  "State": "West Bengal",
+  "city": "Amtala",
+  "So2": 6,
+  "No2": 39,
+  "pm10": 108
+ },
+ {
+  "State": "West Bengal",
+  "city": "Asansol",
+  "So2": 9,
+  "No2": 29,
+  "pm10": 123,
+  "pm2.5": 59
+ },
+ {
+  "State": "West Bengal",
+  "city": "Baharampur",
+  "So2": 2,
+  "No2": 19,
+  "pm10": 79
+ },
+ {
+  "State": "West Bengal",
+  "city": "Balurghat",
+  "So2": 9,
+  "No2": 34,
+  "pm10": 106
+ },
+ {
+  "State": "West Bengal",
+  "city": "Bankura",
+  "So2": 2,
+  "No2": 15,
+  "pm10": 78
+ },
+ {
+  "State": "West Bengal",
+  "city": "Barasat",
+  "So2": 3,
+  "No2": 23,
+  "pm10": 90
+ },
+ {
+  "State": "West Bengal",
+  "city": "Bardhaman",
+  "So2": 2,
+  "No2": 14,
+  "pm10": 77
+ },
+ {
+  "State": "West Bengal",
+  "city": "Barrckpore",
+  "So2": 4,
+  "No2": 22,
+  "pm10": 86,
+  "pm2.5": 54
+ },
+ {
+  "State": "West Bengal",
+  "city": "Baruipur",
+  "So2": 7,
+  "No2": 40,
+  "pm10": 121
+ },
+ {
+  "State": "West Bengal",
+  "city": "Bolpur",
+  "So2": 2,
+  "No2": 14,
+  "pm10": 75
+ },
+ {
+  "State": "West Bengal",
+  "city": "Chinsura",
+  "So2": 2,
+  "No2": 20,
+  "pm10": 83
+ },
+ {
+  "State": "West Bengal",
+  "city": "Coochbihar",
+  "So2": 9,
+  "No2": 34,
+  "pm10": 100
+ },
+ {
+  "State": "West Bengal",
+  "city": "Dankuni",
+  "So2": 2,
+  "No2": 21,
+  "pm10": 85
+ },
+ {
+  "State": "West Bengal",
+  "city": "Darjeeling",
+  "So2": 8,
+  "No2": 32,
+  "pm10": 62,
+  "pm2.5": 32
+ },
+ {
+  "State": "West Bengal",
+  "city": "Durgapur",
+  "So2": 19,
+  "No2": 27,
+  "pm10": 163,
+  "pm2.5": 78
+ },
+ {
+  "State": "West Bengal",
+  "city": "Ghatal",
+  "So2": 12,
+  "No2": 37,
+  "pm10": 106
+ },
+ {
+  "State": "West Bengal",
+  "city": "Haldia",
+  "So2": 12,
+  "No2": 28,
+  "pm10": 97,
+  "pm2.5": 41
+ },
+ {
+  "State": "West Bengal",
+  "city": "Howrah",
+  "So2": 14,
+  "No2": 33,
+  "pm10": 129,
+  "pm2.5": 77
+ },
+ {
+  "State": "West Bengal",
+  "city": "Jalpaiguri",
+  "So2": 8,
+  "No2": 34,
+  "pm10": 96,
+  "pm2.5": 65
+ },
+ {
+  "State": "West Bengal",
+  "city": "Jhargram",
+  "So2": 12,
+  "No2": 38,
+  "pm10": 101
+ },
+ {
+  "State": "West Bengal",
+  "city": "Kalimpong",
+  "So2": 8,
+  "No2": 32,
+  "pm10": 64
+ },
+ {
+  "State": "West Bengal",
+  "city": "Kalyani",
+  "So2": 2,
+  "No2": 21,
+  "pm10": 83,
+  "pm2.5": 48
+ },
+ {
+  "State": "West Bengal",
+  "city": "Kharagpur",
+  "So2": 13,
+  "No2": 39,
+  "pm10": 124
+ },
+ {
+  "State": "West Bengal",
+  "city": "Kolkata",
+  "So2": 9,
+  "No2": 36,
+  "pm10": 107,
+  "pm2.5": 48
+ },
+ {
+  "State": "West Bengal",
+  "city": "Krishnanagar",
+  "So2": 2,
+  "No2": 20,
+  "pm10": 80
+ },
+ {
+  "State": "West Bengal",
+  "city": "Madhyamgram",
+  "So2": 3,
+  "No2": 22,
+  "pm10": 87
+ },
+ {
+  "State": "West Bengal",
+  "city": "Malda",
+  "So2": 9,
+  "No2": 35,
+  "pm10": 112
+ },
+ {
+  "State": "West Bengal",
+  "city": "Medinipur",
+  "So2": 12,
+  "No2": 36,
+  "pm10": 102
+ },
+ {
+  "State": "West Bengal",
+  "city": "Purulia",
+  "So2": 2,
+  "No2": 14,
+  "pm10": 74
+ },
+ {
+  "State": "West Bengal",
+  "city": "Raigunj",
+  "So2": 9,
+  "No2": 34,
+  "pm10": 104
+ },
+ {
+  "State": "West Bengal",
+  "city": "Rampurhat",
+  "So2": 2,
+  "No2": 15,
+  "pm10": 78
+ },
+ {
+  "State": "West Bengal",
+  "city": "Ranaghat",
+  "So2": 2,
+  "No2": 20,
+  "pm10": 83
+ },
+ {
+  "State": "West Bengal",
+  "city": "Raniganj",
+  "So2": 12,
+  "No2": 31,
+  "pm10": 130
+ },
+ {
+  "State": "West Bengal",
+  "city": "Rishra",
+  "So2": 4,
+  "No2": 23,
+  "pm10": 91
+ },
+ {
+  "State": "West Bengal",
+  "city": "Sankrail",
+  "So2": 13,
+  "No2": 40,
+  "pm10": 126
+ },
+ {
+  "State": "West Bengal",
+  "city": "Siliguri",
+  "So2": 5,
+  "No2": 35,
+  "pm10": 105,
+  "pm2.5": 59
+ },
+ {
+  "State": "West Bengal",
+  "city": "Suri",
+  "So2": 2,
+  "No2": 31,
+  "pm10": 77
+ },
+ {
+  "State": "West Bengal",
+  "city": "Tamluk",
+  "So2": 13,
+  "No2": 38,
+  "pm10": 124
+ },
+ {
+  "State": "West Bengal",
+  "city": "Tribeni",
+  "So2": 2,
+  "No2": 20,
+  "pm10": 86
+ },
+ {
+  "State": "West Bengal",
+  "city": "Uluberia",
+  "So2": 13,
+  "No2": 41,
+  "pm10": 115
+ }
+]

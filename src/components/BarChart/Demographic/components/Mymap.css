@@ -1,0 +1,46 @@
+.leaflet-container {
+  position: relative;
+  background-color: white;
+  height: 100vh;
+  margin-bottom: 20px;
+}
+.DemographicForm {
+  color: black;
+  font-size: 1.3rem;
+  display: flex;
+  flex-direction: row;
+  font-family: "Poppins", sans-serif;
+}
+
+.DemographicYear {
+  margin-top: 35px;
+}
+.DemographicChecks {
+  margin: 40px;
+}
+.legend-container{
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+}
+.DemographicHeading {
+  font-size: 1.7rem;
+  letter-spacing: 1.1px;
+}
+
+.DemographicMap {
+  flex-grow: 1;
+  margin-top: 50px;
+}
+
+@media only screen and (max-width:769px){
+  .DemographicForm{
+    flex-direction: column;
+  }
+  .leaflet-container{
+    margin: 0 auto;
+    height:70vh;
+  }
+
+}

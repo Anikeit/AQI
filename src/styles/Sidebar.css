@@ -1,0 +1,116 @@
+.hamburger {
+  display: none;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  /* background-color: #d2e9d4; */
+  color: #ebf8f6;
+  width: 25vw;
+  /* margin-top: 7vh; */
+  padding: 30px;
+  /* border-color: black; */
+  border: 3px solid;
+  border-color: #cbc3e3;
+  height: 92vh;
+  border-radius: 20px;
+  margin-left: 3px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  z-index: 1100;
+}
+.sidebar-label {
+  color: #212529;
+  /* font-weight: 600; */
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  font-family: poppins;
+  font-size: 1.7rem;
+}
+.sidebar-item {
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: #343a40;
+  cursor: pointer;
+  transition: all ease 0.15s;
+  font-size: 1.2rem;
+  font-family: poppins;
+}
+.sidebar-item:hover {
+  background-color: #cbc3e3;
+  color: black;
+  border-color: #301934;
+  border: 2px solid;
+}
+
+.sidebar-item.selected {
+  background-color: #cbc3e3;
+  color: black;
+  border-color: #301934;
+  border: 2px solid;
+}
+.GoHome {
+  color: rgb(152, 46, 152);
+  text-align: center;
+  font-size: 1.8rem;
+  border-radius: 5px;
+  font-family: poppins;
+  cursor: pointer;
+  transition: all ease 0.15s;
+  padding: 10px 20px;
+  border: 2px solid rgb(165, 119, 165);
+  position: relative;
+  top: 33%;
+}
+.GoHome:hover {
+  background-color: #cbc3e3;
+}
+@media only screen and (max-width: 768px) {
+  .hidden {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+    position: fixed;
+    height: 7vh;
+    width: 7vh;
+    top: 1vh;
+    left: 0;
+    z-index: 1200;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .menu-icon {
+    width: 100%;
+  }
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1100;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #e8c4f0;
+  }
+  .sidebar .sidebar-label {
+    font-size: 2rem;
+  }
+
+  .sidebar-item {
+    font-size: 20px;
+    padding: 15px 60px;
+    border-bottom: 1px solid #495057;
+    border-radius: 0px;
+  }
+  .GoHome {
+    top: 0%;
+    padding: 5px 15px;
+  }
+}

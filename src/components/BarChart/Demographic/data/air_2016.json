@@ -1,0 +1,9693 @@
+{
+    "Table 1":[
+     {
+      "state": "Andhra Pradesh",
+      "city": "Anantapur",
+      "so2": 5
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Chitoor",
+      "so2": 6
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Chitoor",
+      "so2": 6
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Eluru",
+      "so2": 5
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Guntur",
+      "so2": 5
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kadapa",
+      "so2": 7
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kakinada",
+      "so2": 8
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kurnool",
+      "so2": 5
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Nellore",
+      "so2": 5
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Prakasam",
+      "so2": 5
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Rajahmundry",
+      "so2": 8
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Srikakulam",
+      "so2": 9
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Tirupati",
+      "so2": 6
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "so2": 5
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "so2": 6
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "so2": 6
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 8
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 7
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 9
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 7
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 7
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 10
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 7
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "so2": 8
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vizianagaram",
+      "so2": 9
+     },
+     {
+      "state": "Assam",
+      "city": "Bongaigaon",
+      "so2": 6
+     },
+     {
+      "state": "Assam",
+      "city": "Bongaigaon",
+      "so2": 5
+     },
+     {
+      "state": "Assam",
+      "city": "Daranga",
+      "so2": 7
+     },
+     {
+      "state": "Assam",
+      "city": "Dibrugarh",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Golaghat",
+      "so2": 7
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Lakhimpur",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Margherita",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Nagaon",
+      "so2": 7
+     },
+     {
+      "state": "Assam",
+      "city": "Nalbari",
+      "so2": 7
+     },
+     {
+      "state": "Assam",
+      "city": "Sibsagar",
+      "so2": 7
+     },
+     {
+      "state": "Assam",
+      "city": "Sibsagar",
+      "so2": 9
+     },
+     {
+      "state": "Assam",
+      "city": "Silchar",
+      "so2": 6
+     },
+     {
+      "state": "Assam",
+      "city": "Silchar",
+      "so2": 6
+     },
+     {
+      "state": "Assam",
+      "city": "Tezpur",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "so2": 7
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "so2": 8
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "so2": 8
+     },
+     {
+      "state": "Bihar",
+      "city": "Patna",
+      "so2": 4
+     },
+     {
+      "state": "Bihar",
+      "city": "Patna",
+      "so2": 5
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "so2": 2
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "so2": 2
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "so2": 2
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "so2": 2
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "so2": 2
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "so2": 9
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "so2": 6
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "so2": 11
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bilaspur",
+      "so2": 5
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Korba",
+      "so2": 12
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Korba",
+      "so2": 11
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Raipur",
+      "so2": 11
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Raipur",
+      "so2": 12
+     },
+     {
+      "state": "Dadra & Nagar\nHaveli",
+      "city": "Silvassa",
+      "so2": 21
+     },
+     {
+      "state": "Daman & Diu",
+      "city": "Daman",
+      "so2": 19
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 8
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 6
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 8
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 5
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 6
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 7
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 6
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 5
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "so2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Amona",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Assanora",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Bicholim",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Codli",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Cuncolim",
+      "so2": 10
+     },
+     {
+      "state": "Goa",
+      "city": "Curchorem",
+      "so2": 6
+     },
+     {
+      "state": "Goa",
+      "city": "Honda",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Kundaim",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Mapusa",
+      "so2": 3
+     },
+     {
+      "state": "Goa",
+      "city": "Margao",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Mormugao",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Panaji",
+      "so2": 4
+     },
+     {
+      "state": "Goa",
+      "city": "Ponda",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Sanguem",
+      "so2": 6
+     },
+     {
+      "state": "Goa",
+      "city": "Tilamol",
+      "so2": 6
+     },
+     {
+      "state": "Goa",
+      "city": "Tuem",
+      "so2": 4
+     },
+     {
+      "state": "Goa",
+      "city": "Usgao",
+      "so2": 5
+     },
+     {
+      "state": "Goa",
+      "city": "Vasco",
+      "so2": 5
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 14
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 16
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 16
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "so2": 15
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "so2": 12
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "so2": 12
+     },
+     {
+      "state": "Gujarat",
+      "city": "Jamnagar",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "so2": 14
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "so2": 14
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "so2": 14
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "so2": 15
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "so2": 13
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "so2": 13
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Damtal",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Damtal",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Dharamshala",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Dharamshala",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Kala Amb",
+      "so2": 3
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Kala Amb",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Manali",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Manali",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Nalagarh",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Paonta Sahib",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Paonta Sahib",
+      "so2": 3
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Parwanoo",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Parwanoo",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Shimla",
+      "so2": 4
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Shimla",
+      "so2": 5
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Sunder Nagar",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Sunder Nagar",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Una",
+      "so2": 2
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Una",
+      "so2": 2
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "so2": 3
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "so2": 3
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "so2": 4
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "so2": 15
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "so2": 15
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "so2": 14
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "so2": 36
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "so2": 36
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jharia",
+      "so2": 16
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "so2": 20
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Saraikela\nKharsawan",
+      "so2": 37
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Sindri",
+      "so2": 13
+     },
+     {
+      "state": "Jharkhand",
+      "city": "West\nSinghbhum",
+      "so2": 16
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bagalkote",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 11
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Belgaum",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bijapur",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Chitradurga",
+      "so2": 3
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "so2": 3
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "so2": 5
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "so2": 3
+     },
+     {
+      "state": "Karnataka",
+      "city": "Gulburga"
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hassan",
+      "so2": 6
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli-Dharwad",
+      "so2": 5
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli-Dharwad",
+      "so2": 5
+     },
+     {
+      "state": "Karnataka",
+      "city": "Kolar",
+      "so2": 2
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mandya",
+      "so2": 3
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mangalore",
+      "so2": 7
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mysore",
+      "so2": 3
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mysore",
+      "so2": 3
+     },
+     {
+      "state": "Karnataka",
+      "city": "Raichur",
+      "so2": 5
+     },
+     {
+      "state": "Karnataka",
+      "city": "Shimaga",
+      "so2": 3
+     },
+     {
+      "state": "Karnataka",
+      "city": "Timukuru",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Alappuzha",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Alappuzha",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kollam",
+      "so2": 4
+     },
+     {
+      "state": "Kerala",
+      "city": "Kollam",
+      "so2": 4
+     },
+     {
+      "state": "Kerala",
+      "city": "Kottayam",
+      "so2": 4
+     },
+     {
+      "state": "Kerala",
+      "city": "Kottayam",
+      "so2": 5
+     },
+     {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Malapuram",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Palakkad",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Pathanamthitt\na",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram",
+      "so2": 8
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram",
+      "so2": 8
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram",
+      "so2": 18
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram",
+      "so2": 8
+     },
+     {
+      "state": "Kerala",
+      "city": "Thissur",
+      "so2": 2
+     },
+     {
+      "state": "Kerala",
+      "city": "Wayanad",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "so2": 14
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "so2": 20
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "so2": 5
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "so2": 3
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "so2": 8
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "so2": 9
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "so2": 17
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "so2": 16
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "so2": 16
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "so2": 10
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "so2": 10
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "so2": 11
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "so2": 11
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "so2": 11
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "so2": 19
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "so2": 27
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "so2": 16
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "so2": 14
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "so2": 9
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "so2": 9
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Sagar",
+      "so2": 2
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "so2": 3
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "so2": 3
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "so2": 18
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "so2": 18
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "so2": 18
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "so2": 17
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "so2": 9
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "so2": 13
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "so2": 15
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "so2": 8
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "so2": 9
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "so2": 8
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "so2": 12
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "so2": 11
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "so2": 13
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "so2": 16
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "so2": 11
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "so2": 15
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Badlapur",
+      "so2": 25
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "so2": 35
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "so2": 31
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "so2": 33
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "so2": 4
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "so2": 7
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "so2": 4
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "so2": 4
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "so2": 4
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "so2": 4
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Dombivali\/Am bernath",
+      "so2": 27
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Dombivali\/Am bernath",
+      "so2": 25
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "so2": 13
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "so2": 12
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "so2": 14
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "so2": 11
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "so2": 12
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "so2": 12
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "so2": 28
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "so2": 23
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "so2": 5
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "so2": 5
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "so2": 5
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "so2": 6
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "so2": 5
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "so2": 10
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "so2": 10
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "so2": 10
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "so2": 31
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "so2": 26
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "so2": 9
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "so2": 27
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "so2": 37
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "so2": 83
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "so2": 14
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "so2": 13
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "so2": 14
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "so2": 13
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "so2": 20
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "so2": 18
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "so2": 20
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "so2": 18
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "so2": 19
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "so2": 22
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pimpri- Chinchwad",
+      "so2": 32
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "so2": 36
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "so2": 24
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "so2": 25
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "so2": 9
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "so2": 10
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "so2": 10
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "so2": 13
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "so2": 13
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "so2": 19
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "so2": 20
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "so2": 16
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "so2": 24
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "so2": 27
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Byrnihat",
+      "so2": 42
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Dawki",
+      "so2": 2
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Khliehriat",
+      "so2": 2
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Nongstoin",
+      "so2": 2
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Shillong",
+      "so2": 2
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Shillong",
+      "so2": 2
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Tura",
+      "so2": 2
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Umiam",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Champhai",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Champhai",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Kolasib",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Kolasib",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Lunglei",
+      "so2": 2
+     },
+     {
+      "state": "Mizoram",
+      "city": "Lunglei",
+      "so2": 2
+     },
+     {
+      "state": "Nagaland",
+      "city": "Dimapur",
+      "so2": 2
+     },
+     {
+      "state": "Nagaland",
+      "city": "Dimapur",
+      "so2": 2
+     },
+     {
+      "state": "Nagaland",
+      "city": "Kohima",
+      "so2": 2
+     },
+     {
+      "state": "Nagaland",
+      "city": "Kohima",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Angul",
+      "so2": 8
+     },
+     {
+      "state": "Odisha",
+      "city": "Angul",
+      "so2": 9
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "so2": 8
+     },
+     {
+      "state": "Odisha",
+      "city": "Berhampur",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "so2": 4
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "so2": 3
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "so2": 3
+     },
+     {
+      "state": "Odisha",
+      "city": "Jharsuguda",
+      "so2": 13
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Konark",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "so2": 22
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "so2": 23
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "so2": 22
+     },
+     {
+      "state": "Odisha",
+      "city": "Puri",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Puri",
+      "so2": 2
+     },
+     {
+      "state": "Odisha",
+      "city": "Rayagada",
+      "so2": 3
+     },
+     {
+      "state": "Odisha",
+      "city": "Rayagada",
+      "so2": 4
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "so2": 7
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "so2": 8
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "so2": 12
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "so2": 7
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "so2": 7
+     },
+     {
+      "state": "Odisha",
+      "city": "Sambalpur",
+      "so2": 4
+     },
+     {
+      "state": "Odisha",
+      "city": "Talcher",
+      "so2": 10
+     },
+     {
+      "state": "Odisha",
+      "city": "Talcher",
+      "so2": 10
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "so2": 9
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "so2": 14
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "so2": 13
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "so2": 6
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "so2": 6
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "so2": 6
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "so2": 14
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "so2": 14
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "so2": 8
+     },
+     {
+      "state": "Punjab",
+      "city": "Bhatinda",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Dera Bassi",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Dera Bassi",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Faridkot",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "so2": 6
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "so2": 6
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "so2": 7
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "so2": 12
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "so2": 13
+     },
+     {
+      "state": "Punjab",
+      "city": "Khanna",
+      "so2": 10
+     },
+     {
+      "state": "Punjab",
+      "city": "Khanna",
+      "so2": 9
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "so2": 10
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "so2": 13
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "so2": 10
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "so2": 10
+     },
+     {
+      "state": "Punjab",
+      "city": "Naya Nangal",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Naya Nangal",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Pathankot\/Der a Baba",
+      "so2": 8
+     },
+     {
+      "state": "Punjab",
+      "city": "Patiala",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Patiala",
+      "so2": 5
+     },
+     {
+      "state": "Punjab",
+      "city": "Sangrur",
+      "so2": 5
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar**",
+      "so2": 7
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar**",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar**",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "so2": 6
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "so2": 11
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "so2": 9
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "so2": 8
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "so2": 9
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "so2": 9
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "so2": 6
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "so2": 6
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "so2": 7
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "so2": 5
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "so2": 5
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "so2": 6
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "so2": 7
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "so2": 7
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "so2": 7
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "so2": 6
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "so2": 7
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "so2": 7
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "so2": 6
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "so2": 6
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "so2": 6
+     },
+     {
+      "state": "Sikkim",
+      "city": "Chungthang",
+      "so2": 9
+     },
+     {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "so2": 11
+     },
+     {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "so2": 13
+     },
+     {
+      "state": "Sikkim",
+      "city": "Mangan",
+      "so2": 8
+     },
+     {
+      "state": "Sikkim",
+      "city": "Namchi",
+      "so2": 12
+     },
+     {
+      "state": "Sikkim",
+      "city": "Pelling",
+      "so2": 13
+     },
+     {
+      "state": "Sikkim",
+      "city": "Rangpo",
+      "so2": 17
+     },
+     {
+      "state": "Sikkim",
+      "city": "Ravangla",
+      "so2": 10
+     },
+     {
+      "state": "Sikkim",
+      "city": "Singtam",
+      "so2": 14
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 14
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 13
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 13
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 3
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 2
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 11
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 10
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 12
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 12
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 12
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "so2": 11
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "so2": 4
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "so2": 4
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "so2": 9
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "so2": 12
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "so2": 12
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "so2": 12
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "so2": 9
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "so2": 18
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "so2": 17
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Mettur",
+      "so2": 6
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Mettur",
+      "so2": 8
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Salem",
+      "so2": 7
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "so2": 14
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "so2": 13
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "so2": 9
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "so2": 9
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "so2": 14
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "so2": 15
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "so2": 16
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "so2": 12
+     },
+     {
+      "state": "Telangana",
+      "city": "Adilabad",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 3
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 3
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 3
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 4
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 9
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Karimnagar",
+      "so2": 7
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "so2": 7
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "so2": 7
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "so2": 9
+     },
+     {
+      "state": "Telangana",
+      "city": "Nalgonda",
+      "so2": 6
+     },
+     {
+      "state": "Telangana",
+      "city": "Nalgonda",
+      "so2": 7
+     },
+     {
+      "state": "Telangana",
+      "city": "Nizamabad",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Patencheru",
+      "so2": 6
+     },
+     {
+      "state": "Telangana",
+      "city": "Ramagundam",
+      "so2": 8
+     },
+     {
+      "state": "Telangana",
+      "city": "Ramagundam",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Ramagundam",
+      "so2": 5
+     },
+     {
+      "state": "Telangana",
+      "city": "Warangal",
+      "so2": 7
+     },
+     {
+      "state": "Telangana",
+      "city": "Warangal",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra**",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra**",
+      "so2": 10
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra**",
+      "so2": 3
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra**",
+      "so2": 4
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra**",
+      "so2": 3
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra**",
+      "so2": 3
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "so2": 4
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "so2": 4
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "so2": 5
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "so2": 4
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "so2": 4
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Anpara",
+      "so2": 18
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Anpara",
+      "so2": 19
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Bareily",
+      "so2": 11
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Bareily",
+      "so2": 12
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad**",
+      "so2": 9
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad**",
+      "so2": 9
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad**"
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gajraula",
+      "so2": 17
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gajraula",
+      "so2": 23
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "so2": 15
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "so2": 15
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "so2": 9
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "so2": 26
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "so2": 21
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 6
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur"
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 2
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 10
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Khurja",
+      "so2": 23
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Khurja",
+      "so2": 21
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Mathura**",
+      "so2": 10
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Mathura**",
+      "so2": 12
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "so2": 6
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "so2": 20
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "so2": 15
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "so2": 7
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "so2": 8
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "so2": 9
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "so2": 15
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "so2": 10
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Saharanpur",
+      "so2": 15
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Saharanpur",
+      "so2": 16
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "so2": 9
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "so2": 10
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "so2": 11
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "so2": 11
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "so2": 12
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun**",
+      "so2": 26
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun**",
+      "so2": 25
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun**",
+      "so2": 27
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Haldwani"
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Haridwar",
+      "so2": 25
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Kashipur"
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Rishikesh",
+      "so2": 23
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Rudrapur"
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "so2": 8
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "so2": 7
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "so2": 8
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "so2": 14
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "so2": 14
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "so2": 17
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "so2": 19
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "so2": 18
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "so2": 18
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "so2": 10
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "so2": 9
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "so2": 12
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 4
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 6
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 5
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 6
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 6
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 3
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 4
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 3
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "so2": 3
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "so2": 13
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "so2": 7
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "so2": 7
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "so2": 7
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "so2": 5
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "so2": 3
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "so2": 3
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "so2": 4
+     }
+    ],
+    "Table 2":[
+     {
+      "state": "Andhra Pradesh",
+      "city": "Anantapur",
+      "no2": 13
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Chitoor",
+      "no2": 40
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Chitoor",
+      "no2": 13
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Eluru",
+      "no2": 30
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Guntur",
+      "no2": 29
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kadapa",
+      "no2": 15
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kakinada",
+      "no2": 18
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kurnool",
+      "no2": 11
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Nellore",
+      "no2": 28
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Prakasam",
+      "no2": 29
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Rajahmundry",
+      "no2": 18
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Srikakulam",
+      "no2": 20
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Tirupati",
+      "no2": 12
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "no2": 44
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "no2": 45
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "no2": 44
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 16
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 17
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 22
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 15
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 16
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 23
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 16
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "no2": 18
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vizianagaram",
+      "no2": 21
+     },
+     {
+      "state": "Assam",
+      "city": "Bongaigaon",
+      "no2": 14
+     },
+     {
+      "state": "Assam",
+      "city": "Bongaigaon",
+      "no2": 12
+     },
+     {
+      "state": "Assam",
+      "city": "Daranga",
+      "no2": 14
+     },
+     {
+      "state": "Assam",
+      "city": "Dibrugarh",
+      "no2": 17
+     },
+     {
+      "state": "Assam",
+      "city": "Golaghat",
+      "no2": 14
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "no2": 17
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "no2": 17
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "no2": 19
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "no2": 18
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "no2": 18
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "no2": 16
+     },
+     {
+      "state": "Assam",
+      "city": "Lakhimpur",
+      "no2": 16
+     },
+     {
+      "state": "Assam",
+      "city": "Margherita",
+      "no2": 17
+     },
+     {
+      "state": "Assam",
+      "city": "Nagaon",
+      "no2": 15
+     },
+     {
+      "state": "Assam",
+      "city": "Nalbari",
+      "no2": 17
+     },
+     {
+      "state": "Assam",
+      "city": "Sibsagar",
+      "no2": 11
+     },
+     {
+      "state": "Assam",
+      "city": "Sibsagar",
+      "no2": 14
+     },
+     {
+      "state": "Assam",
+      "city": "Silchar",
+      "no2": 13
+     },
+     {
+      "state": "Assam",
+      "city": "Silchar",
+      "no2": 12
+     },
+     {
+      "state": "Assam",
+      "city": "Tezpur",
+      "no2": 17
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "no2": 16
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "no2": 18
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "no2": 16
+     },
+     {
+      "state": "Bihar",
+      "city": "Patna",
+      "no2": 27
+     },
+     {
+      "state": "Bihar",
+      "city": "Patna",
+      "no2": 37
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "no2": 25
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "no2": 21
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "no2": 18
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "no2": 20
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "no2": 19
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "no2": 21
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "no2": 16
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "no2": 31
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bilaspur",
+      "no2": 21
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Korba",
+      "no2": 20
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Korba",
+      "no2": 19
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Raipur",
+      "no2": 29
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Raipur",
+      "no2": 33
+     },
+     {
+      "state": "Dadra & Nagar\nHaveli",
+      "city": "Silvassa",
+      "no2": 32
+     },
+     {
+      "state": "Daman &\nDiu",
+      "city": "Daman",
+      "no2": 29
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 91
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 52
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 89
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 46
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 40
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 53
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 56
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 52
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "no2": 116
+     },
+     {
+      "state": "Goa",
+      "city": "Amona",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Assanora",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Bicholim",
+      "no2": 12
+     },
+     {
+      "state": "Goa",
+      "city": "Codli",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Cuncolim",
+      "no2": 15
+     },
+     {
+      "state": "Goa",
+      "city": "Curchorem",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Honda",
+      "no2": 10
+     },
+     {
+      "state": "Goa",
+      "city": "Kundaim",
+      "no2": 10
+     },
+     {
+      "state": "Goa",
+      "city": "Mapusa",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Margao",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Mormugao",
+      "no2": 8
+     },
+     {
+      "state": "Goa",
+      "city": "Panaji",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Ponda",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Sanguem",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Tilamol",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Tuem",
+      "no2": 9
+     },
+     {
+      "state": "Goa",
+      "city": "Usgao",
+      "no2": 11
+     },
+     {
+      "state": "Goa",
+      "city": "Vasco",
+      "no2": 11
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 28
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 28
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 28
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 28
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 25
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 28
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 27
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "no2": 29
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "no2": 22
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "no2": 20
+     },
+     {
+      "state": "Gujarat",
+      "city": "Jamnagar",
+      "no2": 24
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "no2": 21
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "no2": 20
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "no2": 21
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "no2": 22
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "no2": 24
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "no2": 24
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "no2": 24
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "no2": 25
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "no2": 26
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "no2": 22
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "no2": 23
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "no2": 20
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "no2": 21
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Damtal",
+      "no2": 12
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Damtal",
+      "no2": 11
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Dharamshala",
+      "no2": 9
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Dharamshala",
+      "no2": 7
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Kala Amb",
+      "no2": 15
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Kala Amb",
+      "no2": 13
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Manali",
+      "no2": 11
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Manali",
+      "no2": 5
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Nalagarh",
+      "no2": 22
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Paonta Sahib",
+      "no2": 11
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Paonta Sahib",
+      "no2": 13
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Parwanoo",
+      "no2": 10
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Parwanoo",
+      "no2": 10
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Shimla",
+      "no2": 15
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Shimla",
+      "no2": 20
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Sunder Nagar",
+      "no2": 9
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Sunder Nagar",
+      "no2": 14
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Una",
+      "no2": 5
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Una",
+      "no2": 5
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "no2": 17
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "no2": 17
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "no2": 17
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "no2": 38
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "no2": 37
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "no2": 36
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "no2": 45
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "no2": 44
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jharia",
+      "no2": 38
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "no2": 37
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Saraikela\nKharsawan",
+      "no2": 47
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Sindri",
+      "no2": 34
+     },
+     {
+      "state": "Jharkhand",
+      "city": "West\nSinghbhum",
+      "no2": 22
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bagalkote",
+      "no2": 11
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 33
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 35
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 28
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 37
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 34
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 39
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 16
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "no2": 28
+     },
+     {
+      "state": "Karnataka",
+      "city": "Belgaum",
+      "no2": 16
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bidar"
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bijapur",
+      "no2": 12
+     },
+     {
+      "state": "Karnataka",
+      "city": "Chitradurga",
+      "no2": 20
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "no2": 6
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "no2": 10
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "no2": 7
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hassan",
+      "no2": 19
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli-Dharwad",
+      "no2": 20
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli-Dharwad",
+      "no2": 20
+     },
+     {
+      "state": "Karnataka",
+      "city": "Kolar",
+      "no2": 26
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mandya",
+      "no2": 20
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mangalore",
+      "no2": 9
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mysore",
+      "no2": 21
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mysore",
+      "no2": 20
+     },
+     {
+      "state": "Karnataka",
+      "city": "Raichur",
+      "no2": 14
+     },
+     {
+      "state": "Karnataka",
+      "city": "Shimaga",
+      "no2": 6
+     },
+     {
+      "state": "Karnataka",
+      "city": "Timukuru",
+      "no2": 35
+     },
+     {
+      "state": "Kerala",
+      "city": "Alappuzha",
+      "no2": 5
+     },
+     {
+      "state": "Kerala",
+      "city": "Alappuzha",
+      "no2": 5
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "no2": 37
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "no2": 38
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "no2": 11
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "no2": 13
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "no2": 19
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "no2": 11
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "no2": 11
+     },
+     {
+      "state": "Kerala",
+      "city": "Kollam",
+      "no2": 7
+     },
+     {
+      "state": "Kerala",
+      "city": "Kollam",
+      "no2": 8
+     },
+     {
+      "state": "Kerala",
+      "city": "Kottayam",
+      "no2": 16
+     },
+     {
+      "state": "Kerala",
+      "city": "Kottayam",
+      "no2": 18
+     },
+     {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "no2": 18
+     },
+     {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "no2": 18
+     },
+     {
+      "state": "Kerala",
+      "city": "Malapuram",
+      "no2": 17
+     },
+     {
+      "state": "Kerala",
+      "city": "Palakkad",
+      "no2": 9
+     },
+     {
+      "state": "Kerala",
+      "city": "Pathanamthitt\na",
+      "no2": 15
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "no2": 26
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "no2": 26
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "no2": 25
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "no2": 25
+     },
+     {
+      "state": "Kerala",
+      "city": "Thissur",
+      "no2": 5
+     },
+     {
+      "state": "Kerala",
+      "city": "Wayanad",
+      "no2": 5
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "no2": 19
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "no2": 26
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "no2": 10
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "no2": 9
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "no2": 6
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "no2": 17
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "no2": 30
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "no2": 13
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "no2": 18
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "no2": 30
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "no2": 32
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "no2": 22
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "no2": 22
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "no2": 21
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "no2": 14
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "no2": 14
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "no2": 20
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "no2": 20
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "no2": 20
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "no2": 20
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "no2": 26
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "no2": 18
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "no2": 26
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "no2": 24
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "no2": 19
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "no2": 19
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Sagar",
+      "no2": 12
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "no2": 7
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "no2": 6
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "no2": 25
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "no2": 24
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "no2": 23
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "no2": 19
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "no2": 11
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "no2": 15
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "no2": 17
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "no2": 8
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "no2": 10
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "no2": 9
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "no2": 13
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "no2": 12
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "no2": 14
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "no2": 43
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "no2": 34
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "no2": 41
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad"
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Badlapur",
+      "no2": 72
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "no2": 45
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "no2": 48
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "no2": 42
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "no2": 23
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "no2": 29
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "no2": 24
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "no2": 23
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "no2": 22
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "no2": 35
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Dombivali\/Am bernath",
+      "no2": 77
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Dombivali\/Am bernath",
+      "no2": 74
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "no2": 36
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "no2": 33
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "no2": 37
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "no2": 30
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "no2": 31
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "no2": 22
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "no2": 54
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "no2": 41
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "no2": 17
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "no2": 17
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "no2": 18
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "no2": 32
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "no2": 29
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "no2": 31
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "no2": 31
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "no2": 33
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "no2": 17
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "no2": 18
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "no2": 28
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "no2": 28
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "no2": 32
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "no2": 85
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "no2": 27
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "no2": 26
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "no2": 27
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "no2": 28
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "no2": 45
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "no2": 42
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "no2": 48
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "no2": 45
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "no2": 49
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "no2": 49
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pimpri-\nChinchwad",
+      "no2": 71
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "no2": 69
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "no2": 79
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "no2": 87
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "no2": 39
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "no2": 44
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "no2": 35
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "no2": 35
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "no2": 35
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "no2": 62
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "no2": 63
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "no2": 55
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "no2": 69
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "no2": 73
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Byrnihat",
+      "no2": 17
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Dawki",
+      "no2": 11
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Khliehriat",
+      "no2": 10
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Nongstoin",
+      "no2": 11
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Shillong",
+      "no2": 5
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Shillong",
+      "no2": 23
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Tura",
+      "no2": 9
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Umiam",
+      "no2": 14
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "no2": 8
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "no2": 5
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "no2": 9
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "no2": 12
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "no2": 4
+     },
+     {
+      "state": "Mizoram",
+      "city": "Champhai",
+      "no2": 4
+     },
+     {
+      "state": "Mizoram",
+      "city": "Champhai",
+      "no2": 4
+     },
+     {
+      "state": "Mizoram",
+      "city": "Kolasib",
+      "no2": 4
+     },
+     {
+      "state": "Mizoram",
+      "city": "Kolasib",
+      "no2": 5
+     },
+     {
+      "state": "Mizoram",
+      "city": "Lunglei",
+      "no2": 4
+     },
+     {
+      "state": "Mizoram",
+      "city": "Lunglei",
+      "no2": 4
+     },
+     {
+      "state": "Nagaland",
+      "city": "Dimapur",
+      "no2": 10
+     },
+     {
+      "state": "Nagaland",
+      "city": "Dimapur",
+      "no2": 12
+     },
+     {
+      "state": "Nagaland",
+      "city": "Kohima",
+      "no2": 5
+     },
+     {
+      "state": "Nagaland",
+      "city": "Kohima",
+      "no2": 5
+     },
+     {
+      "state": "Odisha",
+      "city": "Angul",
+      "no2": 24
+     },
+     {
+      "state": "Odisha",
+      "city": "Angul",
+      "no2": 22
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "no2": 12
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "no2": 11
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "no2": 14
+     },
+     {
+      "state": "Odisha",
+      "city": "Berhampur",
+      "no2": 19
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "no2": 18
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "no2": 25
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "no2": 28
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "no2": 17
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "no2": 15
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "no2": 15
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "no2": 32
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "no2": 29
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "no2": 28
+     },
+     {
+      "state": "Odisha",
+      "city": "Jharsuguda",
+      "no2": 20
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "no2": 10
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "no2": 8
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "no2": 11
+     },
+     {
+      "state": "Odisha",
+      "city": "Konark",
+      "no2": 13
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "no2": 14
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "no2": 13
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "no2": 13
+     },
+     {
+      "state": "Odisha",
+      "city": "Puri",
+      "no2": 14
+     },
+     {
+      "state": "Odisha",
+      "city": "Puri",
+      "no2": 15
+     },
+     {
+      "state": "Odisha",
+      "city": "Rayagada",
+      "no2": 20
+     },
+     {
+      "state": "Odisha",
+      "city": "Rayagada",
+      "no2": 21
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "no2": 13
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "no2": 15
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "no2": 14
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "no2": 11
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "no2": 13
+     },
+     {
+      "state": "Odisha",
+      "city": "Sambalpur",
+      "no2": 17
+     },
+     {
+      "state": "Odisha",
+      "city": "Talcher",
+      "no2": 24
+     },
+     {
+      "state": "Odisha",
+      "city": "Talcher",
+      "no2": 24
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "no2": 7
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "no2": 11
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "no2": 11
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "no2": 15
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "no2": 15
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "no2": 13
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "no2": 37
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "no2": 37
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "no2": 14
+     },
+     {
+      "state": "Punjab",
+      "city": "Bhatinda",
+      "no2": 14
+     },
+     {
+      "state": "Punjab",
+      "city": "Dera Bassi",
+      "no2": 12
+     },
+     {
+      "state": "Punjab",
+      "city": "Dera Bassi",
+      "no2": 12
+     },
+     {
+      "state": "Punjab",
+      "city": "Faridkot",
+      "no2": 12
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "no2": 34
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "no2": 34
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "no2": 34
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "no2": 23
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "no2": 24
+     },
+     {
+      "state": "Punjab",
+      "city": "Khanna",
+      "no2": 20
+     },
+     {
+      "state": "Punjab",
+      "city": "Khanna",
+      "no2": 18
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "no2": 26
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "no2": 25
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "no2": 22
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "no2": 29
+     },
+     {
+      "state": "Punjab",
+      "city": "Naya Nangal",
+      "no2": 12
+     },
+     {
+      "state": "Punjab",
+      "city": "Naya Nangal",
+      "no2": 12
+     },
+     {
+      "state": "Punjab",
+      "city": "Pathankot\/Der a Baba",
+      "no2": 14
+     },
+     {
+      "state": "Punjab",
+      "city": "Patiala",
+      "no2": 13
+     },
+     {
+      "state": "Punjab",
+      "city": "Patiala",
+      "no2": 13
+     },
+     {
+      "state": "Punjab",
+      "city": "Sangrur",
+      "no2": 13
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar",
+      "no2": 31
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar",
+      "no2": 33
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar",
+      "no2": 33
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "no2": 33
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "no2": 31
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "no2": 28
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "no2": 28
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "no2": 28
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "no2": 27
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "no2": 35
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "no2": 32
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "no2": 34
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "no2": 31
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "no2": 36
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "no2": 34
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "no2": 23
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "no2": 25
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "no2": 23
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "no2": 22
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "no2": 22
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "no2": 24
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "no2": 36
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "no2": 33
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "no2": 34
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "no2": 27
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "no2": 25
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "no2": 25
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "no2": 29
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "no2": 34
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "no2": 35
+     },
+     {
+      "state": "Sikkim",
+      "city": "Chungthang",
+      "no2": 8
+     },
+     {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "no2": 26
+     },
+     {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "no2": 29
+     },
+     {
+      "state": "Sikkim",
+      "city": "Mangan",
+      "no2": 6
+     },
+     {
+      "state": "Sikkim",
+      "city": "Namchi",
+      "no2": 5
+     },
+     {
+      "state": "Sikkim",
+      "city": "Pelling",
+      "no2": 9
+     },
+     {
+      "state": "Sikkim",
+      "city": "Rangpo",
+      "no2": 9
+     },
+     {
+      "state": "Sikkim",
+      "city": "Ravangla",
+      "no2": 8
+     },
+     {
+      "state": "Sikkim",
+      "city": "Singtam",
+      "no2": 9
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 17
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 16
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 16
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 20
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 20
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 23
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 14
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 19
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 20
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 19
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "no2": 17
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "no2": 22
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "no2": 23
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "no2": 28
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "no2": 17
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "no2": 16
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "no2": 18
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "no2": 19
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "no2": 27
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "no2": 27
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Mettur",
+      "no2": 20
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Mettur",
+      "no2": 23
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Salem",
+      "no2": 25
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "no2": 22
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "no2": 22
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "no2": 17
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "no2": 18
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "no2": 23
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "no2": 24
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "no2": 25
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "no2": 17
+     },
+     {
+      "state": "Telangana",
+      "city": "Adilabad",
+      "no2": 19
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 31
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 15
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 15
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 18
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 28
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 28
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 29
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 30
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 45
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "no2": 28
+     },
+     {
+      "state": "Telangana",
+      "city": "Karimnagar",
+      "no2": 24
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "no2": 21
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "no2": 21
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "no2": 32
+     },
+     {
+      "state": "Telangana",
+      "city": "Nalgonda",
+      "no2": 26
+     },
+     {
+      "state": "Telangana",
+      "city": "Nalgonda",
+      "no2": 27
+     },
+     {
+      "state": "Telangana",
+      "city": "Nizamabad",
+      "no2": 19
+     },
+     {
+      "state": "Telangana",
+      "city": "Patencheru",
+      "no2": 25
+     },
+     {
+      "state": "Telangana",
+      "city": "Ramagundam",
+      "no2": 8
+     },
+     {
+      "state": "Telangana",
+      "city": "Sangareddy",
+      "no2": 22
+     },
+     {
+      "state": "Telangana",
+      "city": "Sangareddy",
+      "no2": 25
+     },
+     {
+      "state": "Telangana",
+      "city": "Warangal",
+      "no2": 24
+     },
+     {
+      "state": "Telangana",
+      "city": "Warangal",
+      "no2": 23
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "no2": 14
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "no2": 17
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "no2": 17
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "no2": 35
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "no2": 24
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "no2": 28
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "no2": 39
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "no2": 27
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "no2": 41
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "no2": 41
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "no2": 38
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Anpara",
+      "no2": 28
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Anpara",
+      "no2": 29
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Bareily",
+      "no2": 20
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Bareily",
+      "no2": 24
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad",
+      "no2": 33
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad",
+      "no2": 33
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gajraula",
+      "no2": 30
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gajraula",
+      "no2": 36
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "no2": 29
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "no2": 28
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "no2": 20
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "no2": 47
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "no2": 40
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "no2": 23
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "no2": 19
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 49
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 49
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 40
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 37
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 39
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur"
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 18
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 44
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "no2": 39
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Khurja",
+      "no2": 22
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Khurja",
+      "no2": 21
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "no2": 27
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "no2": 26
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "no2": 27
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "no2": 28
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "no2": 28
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "no2": 28
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "no2": 26
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow"
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "no2": 27
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "no2": 31
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "no2": 62
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "no2": 48
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "no2": 36
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "no2": 26
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "no2": 32
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "no2": 35
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "no2": 15
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "no2": 20
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "no2": 17
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Saharanpur",
+      "no2": 24
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Saharanpur",
+      "no2": 25
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "no2": 27
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "no2": 30
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "no2": 32
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "no2": 29
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "no2": 35
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "no2": 29
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "no2": 29
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "no2": 30
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Haridwar",
+      "no2": 28
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Rishikesh",
+      "no2": 27
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "no2": 43
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "no2": 54
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "no2": 54
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "no2": 58
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "no2": 43
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "no2": 37
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "no2": 43
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "no2": 40
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "no2": 43
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "no2": 62
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "no2": 53
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "no2": 63
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 39
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 50
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 43
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 50
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 47
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 38
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 82
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "no2": 54
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "no2": 43
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "no2": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "no2": 41
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "no2": 43
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "no2": 41
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "no2": 33
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "no2": 38
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "no2": 38
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "no2": 40
+     }
+    ],
+    "Table 3":[
+     {
+      "state": "Andhra Pradesh",
+      "city": "Anantapur",
+      "pm10": 85
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Chitoor",
+      "pm10": 60
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Chitoor",
+      "pm10": 63
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Eluru",
+      "pm10": 70
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Guntur",
+      "pm10": 88
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kadapa",
+      "pm10": 68
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kakinada",
+      "pm10": 64
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Kurnool",
+      "pm10": 69
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Nellore",
+      "pm10": 66
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Prakasam",
+      "pm10": 65
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Rajahmundry",
+      "pm10": 64
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Srikakulam",
+      "pm10": 71
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Tirupati",
+      "pm10": 59
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "pm10": 95
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "pm10": 104
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vijaywada",
+      "pm10": 107
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 75
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 76
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 87
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 67
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 75
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 87
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 77
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vishakhapatnam",
+      "pm10": 74
+     },
+     {
+      "state": "Andhra Pradesh",
+      "city": "Vizianagaram",
+      "pm10": 85
+     },
+     {
+      "state": "Assam",
+      "city": "Bongaigaon",
+      "pm10": 58
+     },
+     {
+      "state": "Assam",
+      "city": "Bongaigaon",
+      "pm10": 53
+     },
+     {
+      "state": "Assam",
+      "city": "Daranga",
+      "pm10": 71
+     },
+     {
+      "state": "Assam",
+      "city": "Dibrugarh",
+      "pm10": 81
+     },
+     {
+      "state": "Assam",
+      "city": "Golaghat",
+      "pm10": 83
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "pm10": 98
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "pm10": 96
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "pm10": 105
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "pm10": 122
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "pm10": 109
+     },
+     {
+      "state": "Assam",
+      "city": "Guwahati",
+      "pm10": 102
+     },
+     {
+      "state": "Assam",
+      "city": "Lakhimpur",
+      "pm10": 84
+     },
+     {
+      "state": "Assam",
+      "city": "Margherita",
+      "pm10": 76
+     },
+     {
+      "state": "Assam",
+      "city": "Nagaon",
+      "pm10": 111
+     },
+     {
+      "state": "Assam",
+      "city": "Nalbari",
+      "pm10": 108
+     },
+     {
+      "state": "Assam",
+      "city": "Sibsagar",
+      "pm10": 54
+     },
+     {
+      "state": "Assam",
+      "city": "Sibsagar",
+      "pm10": 96
+     },
+     {
+      "state": "Assam",
+      "city": "Silchar",
+      "pm10": 58
+     },
+     {
+      "state": "Assam",
+      "city": "Silchar",
+      "pm10": 58
+     },
+     {
+      "state": "Assam",
+      "city": "Tezpur",
+      "pm10": 68
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "pm10": 83
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "pm10": 90
+     },
+     {
+      "state": "Assam",
+      "city": "Tinsukia",
+      "pm10": 67
+     },
+     {
+      "state": "Bihar",
+      "city": "Patna",
+      "pm10": 164
+     },
+     {
+      "state": "Bihar",
+      "city": "Patna",
+      "pm10": 259
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm10": 131
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm10": 94
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm10": 86
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm10": 112
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm10": 100
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "pm10": 87
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "pm10": 73
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bhillai",
+      "pm10": 163
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bilaspur",
+      "pm10": 97
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Bilaspur",
+      "pm10": 58
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Raipur",
+      "pm10": 128
+     },
+     {
+      "state": "Chattisgarh",
+      "city": "Raipur",
+      "pm10": 168
+     },
+     {
+      "state": "Dadra & Nagar Haveli",
+      "city": "Silvassa",
+      "pm10": 73
+     },
+     {
+      "state": "Daman & Diu",
+      "city": "Daman",
+      "pm10": 68
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 177
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 295
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 318
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 253
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 262
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 327
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 348
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 319
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm10": 200
+     },
+     {
+      "state": "Goa",
+      "city": "Amona",
+      "pm10": 72
+     },
+     {
+      "state": "Goa",
+      "city": "Assanora",
+      "pm10": 62
+     },
+     {
+      "state": "Goa",
+      "city": "Bicholim",
+      "pm10": 70
+     },
+     {
+      "state": "Goa",
+      "city": "Codli",
+      "pm10": 64
+     },
+     {
+      "state": "Goa",
+      "city": "Cuncolim",
+      "pm10": 67
+     },
+     {
+      "state": "Goa",
+      "city": "Curchorem",
+      "pm10": 49
+     },
+     {
+      "state": "Goa",
+      "city": "Honda",
+      "pm10": 65
+     },
+     {
+      "state": "Goa",
+      "city": "Kundaim",
+      "pm10": 62
+     },
+     {
+      "state": "Goa",
+      "city": "Mapusa",
+      "pm10": 117
+     },
+     {
+      "state": "Goa",
+      "city": "Margao",
+      "pm10": 69
+     },
+     {
+      "state": "Goa",
+      "city": "Mormugao",
+      "pm10": 115
+     },
+     {
+      "state": "Goa",
+      "city": "Panaji",
+      "pm10": 68
+     },
+     {
+      "state": "Goa",
+      "city": "Ponda",
+      "pm10": 68
+     },
+     {
+      "state": "Goa",
+      "city": "Sanguem",
+      "pm10": 44
+     },
+     {
+      "state": "Goa",
+      "city": "Tilamol",
+      "pm10": 46
+     },
+     {
+      "state": "Goa",
+      "city": "Tuem",
+      "pm10": 61
+     },
+     {
+      "state": "Goa",
+      "city": "Usgao",
+      "pm10": 64
+     },
+     {
+      "state": "Goa",
+      "city": "Vasco",
+      "pm10": 90
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 110
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 108
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 105
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 105
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 110
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 110
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 108
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm10": 108
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "pm10": 104
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "pm10": 104
+     },
+     {
+      "state": "Gujarat",
+      "city": "Jamnagar",
+      "pm10": 92
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "pm10": 96
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "pm10": 89
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "pm10": 86
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "pm10": 96
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "pm10": 94
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "pm10": 89
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "pm10": 90
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "pm10": 99
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "pm10": 105
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "pm10": 104
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "pm10": 75
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "pm10": 83
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "pm10": 112
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Damtal",
+      "pm10": 98
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Damtal",
+      "pm10": 71
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Dharamshala",
+      "pm10": 41
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Dharamshala",
+      "pm10": 42
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Kala Amb",
+      "pm10": 166
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Kala Amb",
+      "pm10": 91
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Manali",
+      "pm10": 59
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Manali",
+      "pm10": 45
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Nalagarh",
+      "pm10": 108
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Paonta Sahib",
+      "pm10": 73
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Paonta Sahib",
+      "pm10": 130
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Parwanoo",
+      "pm10": 64
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Parwanoo",
+      "pm10": 75
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Shimla",
+      "pm10": 43
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Shimla",
+      "pm10": 64
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Sunder Nagar",
+      "pm10": 81
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Sunder Nagar",
+      "pm10": 102
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Una",
+      "pm10": 65
+     },
+     {
+      "state": "Himachal Pradesh",
+      "city": "Una",
+      "pm10": 74
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "pm10": 131
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "pm10": 132
+     },
+     {
+      "state": "Jammu & Kashmir",
+      "city": "Jammu",
+      "pm10": 130
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "pm10": 164
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "pm10": 249
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "pm10": 266
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "pm10": 135
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "pm10": 137
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Jharia",
+      "pm10": 280
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "pm10": 196
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Saraikela Kharsawan",
+      "pm10": 143
+     },
+     {
+      "state": "Jharkhand",
+      "city": "Sindri",
+      "pm10": 143
+     },
+     {
+      "state": "Jharkhand",
+      "city": "West\nSinghbhum",
+      "pm10": 93
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bagalkote",
+      "pm10": 59
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 155
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 114
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 107
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 102
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 98
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 94
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 43
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm10": 111
+     },
+     {
+      "state": "Karnataka",
+      "city": "Belgaum",
+      "pm10": 112
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bijapur",
+      "pm10": 93
+     },
+     {
+      "state": "Karnataka",
+      "city": "Chitradurga",
+      "pm10": 41
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "pm10": 62
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "pm10": 175
+     },
+     {
+      "state": "Karnataka",
+      "city": "Devanagere",
+      "pm10": 46
+     },
+     {
+      "state": "Karnataka",
+      "city": "Gulburga",
+      "pm10": 60
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hassan",
+      "pm10": 26
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli- Dharwad",
+      "pm10": 77
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli- Dharwad",
+      "pm10": 90
+     },
+     {
+      "state": "Karnataka",
+      "city": "Karwar"
+     },
+     {
+      "state": "Karnataka",
+      "city": "Kolar",
+      "pm10": 62
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mandya",
+      "pm10": 20
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mangalore",
+      "pm10": 40
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mysore",
+      "pm10": 49
+     },
+     {
+      "state": "Karnataka",
+      "city": "Mysore",
+      "pm10": 45
+     },
+     {
+      "state": "Karnataka",
+      "city": "Raichur",
+      "pm10": 83
+     },
+     {
+      "state": "Karnataka",
+      "city": "Shimaga",
+      "pm10": 42
+     },
+     {
+      "state": "Karnataka",
+      "city": "Timukuru",
+      "pm10": 136
+     },
+     {
+      "state": "Kerala",
+      "city": "Alappuzha",
+      "pm10": 42
+     },
+     {
+      "state": "Kerala",
+      "city": "Alappuzha",
+      "pm10": 43
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "pm10": 49
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "pm10": 53
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "pm10": 33
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "pm10": 56
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "pm10": 51
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "pm10": 36
+     },
+     {
+      "state": "Kerala",
+      "city": "Kochi",
+      "pm10": 56
+     },
+     {
+      "state": "Kerala",
+      "city": "Kollam",
+      "pm10": 45
+     },
+     {
+      "state": "Kerala",
+      "city": "Kollam",
+      "pm10": 46
+     },
+     {
+      "state": "Kerala",
+      "city": "Kottayam",
+      "pm10": 50
+     },
+     {
+      "state": "Kerala",
+      "city": "Kottayam",
+      "pm10": 58
+     },
+     {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "pm10": 51
+     },
+     {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "pm10": 51
+     },
+     {
+      "state": "Kerala",
+      "city": "Malapuram",
+      "pm10": 37
+     },
+     {
+      "state": "Kerala",
+      "city": "Palakkad",
+      "pm10": 41
+     },
+     {
+      "state": "Kerala",
+      "city": "Pathanamthitt a",
+      "pm10": 26
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "pm10": 53
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "pm10": 53
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "pm10": 54
+     },
+     {
+      "state": "Kerala",
+      "city": "Thiruvanantha puram",
+      "pm10": 51
+     },
+     {
+      "state": "Kerala",
+      "city": "Thissur",
+      "pm10": 54
+     },
+     {
+      "state": "Kerala",
+      "city": "Wayanad",
+      "pm10": 39
+     },
+     {
+      "state": "Lakshwadeep",
+      "city": "Kavaratti",
+      "pm10": 30
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "pm10": 62
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "pm10": 84
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm10": 110
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm10": 103
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm10": 48
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm10": 88
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm10": 116
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm10": 72
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm10": 84
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "pm10": 77
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "pm10": 83
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "pm10": 92
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "pm10": 90
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "pm10": 86
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "pm10": 88
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "pm10": 104
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "pm10": 96
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "pm10": 96
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "pm10": 94
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "pm10": 60
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "pm10": 82
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Katni",
+      "pm10": 71
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Katni",
+      "pm10": 66
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "pm10": 60
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "pm10": 60
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "pm10": 71
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "pm10": 89
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "pm10": 96
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Sagar",
+      "pm10": 79
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "pm10": 78
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "pm10": 64
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "pm10": 84
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "pm10": 81
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "pm10": 83
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm10": 118
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm10": 71
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm10": 86
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm10": 86
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "pm10": 107
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "pm10": 127
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "pm10": 144
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "pm10": 99
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "pm10": 69
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "pm10": 132
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "pm10": 115
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "pm10": 82
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "pm10": 80
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Badlapur",
+      "pm10": 125
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "pm10": 65
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "pm10": 70
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "pm10": 64
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "pm10": 213
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "pm10": 79
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "pm10": 82
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "pm10": 119
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "pm10": 70
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "pm10": 103
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Dombivali\/Am bernath",
+      "pm10": 128
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Dombivali\/Am bernath",
+      "pm10": 127
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "pm10": 104
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "pm10": 98
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "pm10": 107
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "pm10": 123
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "pm10": 96
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "pm10": 64
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "pm10": 122
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "pm10": 103
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "pm10": 80
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "pm10": 83
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "pm10": 79
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "pm10": 124
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "pm10": 113
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "pm10": 95
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "pm10": 92
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "pm10": 102
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "pm10": 177
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "pm10": 160
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "pm10": 144
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "pm10": 55
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "pm10": 115
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "pm10": 160
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "pm10": 208
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "pm10": 80
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "pm10": 90
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "pm10": 95
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "pm10": 75
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "pm10": 124
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "pm10": 125
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "pm10": 105
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "pm10": 112
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "pm10": 120
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "pm10": 124
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pimpri-\nChinchwad",
+      "pm10": 105
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "pm10": 115
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "pm10": 103
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "pm10": 103
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "pm10": 85
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "pm10": 80
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "pm10": 85
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "pm10": 74
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "pm10": 74
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "pm10": 129
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "pm10": 107
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "pm10": 131
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "pm10": 119
+     },
+     {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "pm10": 117
+     },
+     {
+      "state": "Manipur",
+      "city": "Imphal",
+      "pm10": 29
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Byrnihat",
+      "pm10": 175
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Dawki",
+      "pm10": 35
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Khliehriat",
+      "pm10": 47
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Nongstoin",
+      "pm10": 33
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Shillong",
+      "pm10": 33
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Shillong",
+      "pm10": 78
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Tura",
+      "pm10": 31
+     },
+     {
+      "state": "Meghalaya",
+      "city": "Umiam",
+      "pm10": 108
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "pm10": 82
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "pm10": 35
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "pm10": 65
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "pm10": 79
+     },
+     {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "pm10": 38
+     },
+     {
+      "state": "Mizoram",
+      "city": "Champhai",
+      "pm10": 18
+     },
+     {
+      "state": "Mizoram",
+      "city": "Champhai",
+      "pm10": 41
+     },
+     {
+      "state": "Mizoram",
+      "city": "Kolasib",
+      "pm10": 22
+     },
+     {
+      "state": "Mizoram",
+      "city": "Kolasib",
+      "pm10": 38
+     },
+     {
+      "state": "Mizoram",
+      "city": "Lunglei",
+      "pm10": 28
+     },
+     {
+      "state": "Mizoram",
+      "city": "Lunglei",
+      "pm10": 38
+     },
+     {
+      "state": "Nagaland",
+      "city": "Dimapur",
+      "pm10": 104
+     },
+     {
+      "state": "Nagaland",
+      "city": "Dimapur",
+      "pm10": 139
+     },
+     {
+      "state": "Nagaland",
+      "city": "Kohima",
+      "pm10": 60
+     },
+     {
+      "state": "Nagaland",
+      "city": "Kohima",
+      "pm10": 119
+     },
+     {
+      "state": "Odisha",
+      "city": "Angul",
+      "pm10": 94
+     },
+     {
+      "state": "Odisha",
+      "city": "Angul",
+      "pm10": 100
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "pm10": 84
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "pm10": 78
+     },
+     {
+      "state": "Odisha",
+      "city": "Balasore",
+      "pm10": 93
+     },
+     {
+      "state": "Odisha",
+      "city": "Berhampur",
+      "pm10": 58
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "pm10": 111
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "pm10": 91
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "pm10": 101
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "pm10": 117
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "pm10": 102
+     },
+     {
+      "state": "Odisha",
+      "city": "Bhubneshwar",
+      "pm10": 109
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "pm10": 93
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "pm10": 76
+     },
+     {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "pm10": 74
+     },
+     {
+      "state": "Odisha",
+      "city": "Jharsuguda",
+      "pm10": 87
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "pm10": 111
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "pm10": 112
+     },
+     {
+      "state": "Odisha",
+      "city": "Kalinga Nagar",
+      "pm10": 117
+     },
+     {
+      "state": "Odisha",
+      "city": "Konark",
+      "pm10": 95
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "pm10": 117
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "pm10": 101
+     },
+     {
+      "state": "Odisha",
+      "city": "Paradeep",
+      "pm10": 117
+     },
+     {
+      "state": "Odisha",
+      "city": "Puri",
+      "pm10": 88
+     },
+     {
+      "state": "Odisha",
+      "city": "Puri",
+      "pm10": 99
+     },
+     {
+      "state": "Odisha",
+      "city": "Rayagada",
+      "pm10": 55
+     },
+     {
+      "state": "Odisha",
+      "city": "Rayagada",
+      "pm10": 62
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "pm10": 36
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "pm10": 107
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "pm10": 57
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "pm10": 82
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "pm10": 91
+     },
+     {
+      "state": "Odisha",
+      "city": "Sambalpur",
+      "pm10": 79
+     },
+     {
+      "state": "Odisha",
+      "city": "Talcher",
+      "pm10": 116
+     },
+     {
+      "state": "Odisha",
+      "city": "Talcher",
+      "pm10": 94
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "pm10": 30
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "pm10": 42
+     },
+     {
+      "state": "Puducherry",
+      "city": "Karaikal",
+      "pm10": 42
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "pm10": 43
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "pm10": 43
+     },
+     {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "pm10": 34
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "pm10": 225
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "pm10": 244
+     },
+     {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "pm10": 112
+     },
+     {
+      "state": "Punjab",
+      "city": "Bhatinda",
+      "pm10": 121
+     },
+     {
+      "state": "Punjab",
+      "city": "Dera Bassi",
+      "pm10": 97
+     },
+     {
+      "state": "Punjab",
+      "city": "Dera Bassi",
+      "pm10": 99
+     },
+     {
+      "state": "Punjab",
+      "city": "Faridkot",
+      "pm10": 104
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "pm10": 126
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "pm10": 122
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "pm10": 123
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "pm10": 172
+     },
+     {
+      "state": "Punjab",
+      "city": "Gobindgarh",
+      "pm10": 199
+     },
+     {
+      "state": "Punjab",
+      "city": "Khanna",
+      "pm10": 127
+     },
+     {
+      "state": "Punjab",
+      "city": "Khanna",
+      "pm10": 101
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "pm10": 123
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "pm10": 158
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "pm10": 128
+     },
+     {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "pm10": 146
+     },
+     {
+      "state": "Punjab",
+      "city": "Naya Nangal",
+      "pm10": 92
+     },
+     {
+      "state": "Punjab",
+      "city": "Naya Nangal",
+      "pm10": 89
+     },
+     {
+      "state": "Punjab",
+      "city": "Pathankot\/Der\na Baba",
+      "pm10": 89
+     },
+     {
+      "state": "Punjab",
+      "city": "Patiala",
+      "pm10": 106
+     },
+     {
+      "state": "Punjab",
+      "city": "Patiala",
+      "pm10": 106
+     },
+     {
+      "state": "Punjab",
+      "city": "Sangrur",
+      "pm10": 90
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar",
+      "pm10": 129
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar",
+      "pm10": 161
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Alwar",
+      "pm10": 142
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "pm10": 204
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "pm10": 150
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bharatpur",
+      "pm10": 123
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "pm10": 263
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "pm10": 238
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "pm10": 290
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "pm10": 185
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "pm10": 126
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "pm10": 247
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "pm10": 122
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "pm10": 242
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "pm10": 271
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "pm10": 150
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "pm10": 183
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "pm10": 183
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "pm10": 148
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "pm10": 168
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "pm10": 177
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "pm10": 153
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "pm10": 112
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "pm10": 119
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "pm10": 98
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "pm10": 84
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "pm10": 91
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "pm10": 102
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "pm10": 130
+     },
+     {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "pm10": 180
+     },
+     {
+      "state": "Sikkim",
+      "city": "Chungthang",
+      "pm10": 26
+     },
+     {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "pm10": 30
+     },
+     {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "pm10": 26
+     },
+     {
+      "state": "Sikkim",
+      "city": "Mangan",
+      "pm10": 20
+     },
+     {
+      "state": "Sikkim",
+      "city": "Namchi",
+      "pm10": 23
+     },
+     {
+      "state": "Sikkim",
+      "city": "Pelling",
+      "pm10": 20
+     },
+     {
+      "state": "Sikkim",
+      "city": "Rangpo",
+      "pm10": 54
+     },
+     {
+      "state": "Sikkim",
+      "city": "Ravangla",
+      "pm10": 22
+     },
+     {
+      "state": "Sikkim",
+      "city": "Singtam",
+      "pm10": 44
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 58
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 61
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 55
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 52
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 53
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 29
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 48
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 96
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 98
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 87
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Chennai",
+      "pm10": 79
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "pm10": 53
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "pm10": 51
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Coimbatore",
+      "pm10": 74
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "pm10": 46
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "pm10": 43
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Cuddalore",
+      "pm10": 54
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "pm10": 60
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "pm10": 86
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Madurai",
+      "pm10": 82
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Mettur",
+      "pm10": 47
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Mettur",
+      "pm10": 59
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Salem",
+      "pm10": 51
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "pm10": 129
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "pm10": 130
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "pm10": 35
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "pm10": 39
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Trichy",
+      "pm10": 140
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "pm10": 151
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "pm10": 245
+     },
+     {
+      "state": "Tamilnadu",
+      "city": "Tuticorin",
+      "pm10": 129
+     },
+     {
+      "state": "Telangana",
+      "city": "Adilabad",
+      "pm10": 63
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 131
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 74
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 69
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 64
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 95
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 105
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 121
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 108
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 120
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm10": 116
+     },
+     {
+      "state": "Telangana",
+      "city": "Karimnagar",
+      "pm10": 60
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "pm10": 57
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "pm10": 52
+     },
+     {
+      "state": "Telangana",
+      "city": "Khammam",
+      "pm10": 78
+     },
+     {
+      "state": "Telangana",
+      "city": "Nalgonda",
+      "pm10": 59
+     },
+     {
+      "state": "Telangana",
+      "city": "Nalgonda",
+      "pm10": 64
+     },
+     {
+      "state": "Telangana",
+      "city": "Nizamabad",
+      "pm10": 63
+     },
+     {
+      "state": "Telangana",
+      "city": "Patencheru",
+      "pm10": 78
+     },
+     {
+      "state": "Telangana",
+      "city": "Ramagundam",
+      "pm10": 69
+     },
+     {
+      "state": "Telangana",
+      "city": "Ramagundam",
+      "pm10": 66
+     },
+     {
+      "state": "Telangana",
+      "city": "Ramagundam",
+      "pm10": 74
+     },
+     {
+      "state": "Telangana",
+      "city": "Warangal",
+      "pm10": 66
+     },
+     {
+      "state": "Telangana",
+      "city": "Warangal",
+      "pm10": 73
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "pm10": 184
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "pm10": 223
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "pm10": 167
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "pm10": 243
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "pm10": 194
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "pm10": 177
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "pm10": 226
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "pm10": 178
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "pm10": 198
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "pm10": 196
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "pm10": 179
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Anpara",
+      "pm10": 130
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Anpara",
+      "pm10": 133
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Bareily",
+      "pm10": 229
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Bareily",
+      "pm10": 277
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad",
+      "pm10": 224
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad",
+      "pm10": 222
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gajraula",
+      "pm10": 184
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gajraula",
+      "pm10": 202
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "pm10": 248
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "pm10": 223
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "pm10": 98
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "pm10": 193
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Gorakpur",
+      "pm10": 171
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "pm10": 134
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "pm10": 97
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 212
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 242
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 244
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 227
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 201
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 127
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 221
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "pm10": 263
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Khurja",
+      "pm10": 240
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Khurja",
+      "pm10": 192
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "pm10": 201
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "pm10": 205
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "pm10": 217
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "pm10": 215
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "pm10": 223
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "pm10": 224
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "pm10": 210
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "pm10": 159
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "pm10": 183
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "pm10": 182
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "pm10": 133
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "pm10": 220
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "pm10": 172
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "pm10": 168
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "pm10": 184
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "pm10": 130
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "pm10": 146
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Raebareli",
+      "pm10": 147
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Saharanpur",
+      "pm10": 217
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Saharanpur",
+      "pm10": 218
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "pm10": 93
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "pm10": 146
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "pm10": 257
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "pm10": 216
+     },
+     {
+      "state": "Uttar Pradesh",
+      "city": "Unnao",
+      "pm10": 294
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "pm10": 229
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "pm10": 192
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "pm10": 302
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Haldwani",
+      "pm10": 128
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Haridwar",
+      "pm10": 129
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Kashipur",
+      "pm10": 126
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Rishikesh",
+      "pm10": 119
+     },
+     {
+      "state": "Uttarakhand",
+      "city": "Rudrapur",
+      "pm10": 142
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "pm10": 208
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "pm10": 214
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "pm10": 210
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "pm10": 104
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "pm10": 98
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "pm10": 116
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "pm10": 215
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "pm10": 218
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "pm10": 131
+     },
+     {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "pm10": 219
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "pm10": 98
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "pm10": 108
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "pm10": 102
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "pm10": 105
+     },
+     {
+      "state": "West Bengal",
+      "city": "Haldia"
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm10": 126
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm10": 113
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm10": 118
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 112
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 148
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 119
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 145
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 143
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 108
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 108
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 63
+     },
+     {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "pm10": 75
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "pm10": 214
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "pm10": 216
+     },
+     {
+      "state": "West Bengal",
+      "city": "Raniganj",
+      "pm10": 221
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "pm10": 93
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "pm10": 93
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "pm10": 97
+     },
+     {
+      "state": "West Bengal",
+      "city": "Sankrail",
+      "pm10": 70
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "pm10": 117
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "pm10": 110
+     },
+     {
+      "state": "West Bengal",
+      "city": "South Suburban",
+      "pm10": 112
+     }
+    ],
+    "Table 4":[
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm2.5": 114
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm2.5": 112
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm2.5": 119
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm2.5": 149
+     },
+     {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "pm2.5": 123
+     },
+     {
+      "state": "Dadra & Nagar\nHaveli",
+      "city": "Silvassa",
+      "pm2.5": 37
+     },
+     {
+      "state": "Daman &\nDiu",
+      "city": "Daman",
+      "pm2.5": 34
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm2.5": 118
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm2.5": 117
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm2.5": 108
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm2.5": 145
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm2.5": 119
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm2.5": 120
+     },
+     {
+      "state": "Delhi",
+      "city": "Delhi",
+      "pm2.5": 102
+     },
+     {
+      "state": "Goa",
+      "city": "Amona",
+      "pm2.5": 25
+     },
+     {
+      "state": "Goa",
+      "city": "Assanora",
+      "pm2.5": 21
+     },
+     {
+      "state": "Goa",
+      "city": "Bicholim",
+      "pm2.5": 25
+     },
+     {
+      "state": "Goa",
+      "city": "Codli",
+      "pm2.5": 24
+     },
+     {
+      "state": "Goa",
+      "city": "Cuncolim",
+      "pm2.5": 35
+     },
+     {
+      "state": "Goa",
+      "city": "Curchorem",
+      "pm2.5": 21
+     },
+     {
+      "state": "Goa",
+      "city": "Honda",
+      "pm2.5": 22
+     },
+     {
+      "state": "Goa",
+      "city": "Kundaim",
+      "pm2.5": 21
+     },
+     {
+      "state": "Goa",
+      "city": "Mapusa",
+      "pm2.5": 33
+     },
+     {
+      "state": "Goa",
+      "city": "Margao",
+      "pm2.5": 24
+     },
+     {
+      "state": "Goa",
+      "city": "Mormugao",
+      "pm2.5": 44
+     },
+     {
+      "state": "Goa",
+      "city": "Panaji",
+      "pm2.5": 70
+     },
+     {
+      "state": "Goa",
+      "city": "Ponda",
+      "pm2.5": 22
+     },
+     {
+      "state": "Goa",
+      "city": "Sanguem",
+      "pm2.5": 20
+     },
+     {
+      "state": "Goa",
+      "city": "Tilamol",
+      "pm2.5": 21
+     },
+     {
+      "state": "Goa",
+      "city": "Tuem",
+      "pm2.5": 19
+     },
+     {
+      "state": "Goa",
+      "city": "Usgao",
+      "pm2.5": 21
+     },
+     {
+      "state": "Goa",
+      "city": "Vasco",
+      "pm2.5": 67
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 35
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 34
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 33
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 33
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 34
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 34
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 33
+     },
+     {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "pm2.5": 34
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "pm2.5": 33
+     },
+     {
+      "state": "Gujarat",
+      "city": "Anklesvar",
+      "pm2.5": 32
+     },
+     {
+      "state": "Gujarat",
+      "city": "Jamnagar",
+      "pm2.5": 29
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "pm2.5": 33
+     },
+     {
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "pm2.5": 31
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "pm2.5": 29
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "pm2.5": 33
+     },
+     {
+      "state": "Gujarat",
+      "city": "Surat",
+      "pm2.5": 32
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "pm2.5": 29
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "pm2.5": 29
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "pm2.5": 32
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "pm2.5": 33
+     },
+     {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "pm2.5": 32
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bagalkote",
+      "pm2.5": 24
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm2.5": 60
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm2.5": 52
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm2.5": 55
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm2.5": 43
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pm2.5": 46
+     },
+     {
+      "state": "Karnataka",
+      "city": "Belgaum",
+      "pm2.5": 38
+     },
+     {
+      "state": "Karnataka",
+      "city": "Bijapur",
+      "pm2.5": 40
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli- Dharwad",
+      "pm2.5": 35
+     },
+     {
+      "state": "Karnataka",
+      "city": "Hubli- Dharwad",
+      "pm2.5": 36
+     },
+     {
+      "state": "Karnataka",
+      "city": "Kolar",
+      "pm2.5": 33
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "pm2.5": 24
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Amlai",
+      "pm2.5": 29
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm2.5": 23
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm2.5": 32
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm2.5": 27
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm2.5": 33
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm2.5": 28
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm2.5": 18
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "pm2.5": 25
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "pm2.5": 47
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Chhindwara",
+      "pm2.5": 57
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "pm2.5": 55
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "pm2.5": 49
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "pm2.5": 55
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "pm2.5": 55
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "pm2.5": 50
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "pm2.5": 28
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "pm2.5": 35
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Katni",
+      "pm2.5": 43
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Katni",
+      "pm2.5": 44
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "pm2.5": 33
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "pm2.5": 32
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Nagda",
+      "pm2.5": 33
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "pm2.5": 37
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Prithampur",
+      "pm2.5": 47
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Sagar",
+      "pm2.5": 31
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Sagar",
+      "pm2.5": 28
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "pm2.5": 36
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "pm2.5": 27
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "pm2.5": 43
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "pm2.5": 41
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "pm2.5": 43
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm2.5": 52
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm2.5": 34
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm2.5": 41
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "pm2.5": 47
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Balasore",
+      "pm2.5": 46
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Balasore",
+      "pm2.5": 42
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Balasore",
+      "pm2.5": 53
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Berhampur",
+      "pm2.5": 36
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhubneshw ar",
+      "pm2.5": 32
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhubneshw ar",
+      "pm2.5": 35
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhubneshw ar",
+      "pm2.5": 40
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhubneshw ar",
+      "pm2.5": 47
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhubneshw ar",
+      "pm2.5": 28
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Bhubneshw ar",
+      "pm2.5": 35
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Cuttack",
+      "pm2.5": 44
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Cuttack",
+      "pm2.5": 40
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Cuttack",
+      "pm2.5": 42
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Jharsuguda",
+      "pm2.5": 48
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Kalinga Nagar",
+      "pm2.5": 47
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Kalinga Nagar",
+      "pm2.5": 43
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Kalinga Nagar",
+      "pm2.5": 49
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Konark",
+      "pm2.5": 41
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Paradeep",
+      "pm2.5": 46
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Paradeep",
+      "pm2.5": 35
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Paradeep",
+      "pm2.5": 41
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Puri",
+      "pm2.5": 28
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Puri",
+      "pm2.5": 32
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Rayagada",
+      "pm2.5": 32
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Rayagada",
+      "pm2.5": 35
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Sambalpur",
+      "pm2.5": 51
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Talcher",
+      "pm2.5": 55
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Talcher",
+      "pm2.5": 46
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Talcher",
+      "pm2.5": 36
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Talcher",
+      "pm2.5": 15
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Talcher",
+      "pm2.5": 25
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Coimbatore",
+      "pm2.5": 33
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Coimbatore",
+      "pm2.5": 28
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Coimbatore",
+      "pm2.5": 44
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Coimbatore",
+      "pm2.5": 35
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Coimbatore",
+      "pm2.5": 38
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Coimbatore",
+      "pm2.5": 33
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Salem",
+      "pm2.5": 20
+     },
+     {
+      "state": "Madhya Pradesh",
+      "city": "Salem",
+      "pm2.5": 27
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "pm2.5": 42
+     },
+     {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "pm2.5": 47
+     },
+     {
+      "state": "Telangana",
+      "city": "Adilabad",
+      "pm2.5": 32
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 50
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 55
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 42
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 38
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 51
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 48
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 60
+     },
+     {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "pm2.5": 50
+     },
+     {
+      "state": "Telangana",
+      "city": "Nalgonda",
+      "pm2.5": 35
+     },
+     {
+      "state": "Telangana",
+      "city": "Nizamabad",
+      "pm2.5": 31
+     },
+     {
+      "state": "Telangana",
+      "city": "Patencheru",
+      "pm2.5": 38
+     },
+     {
+      "state": "Telangana",
+      "city": "Patencheru",
+      "pm2.5": 28
+     },
+     {
+      "state": "Telangana",
+      "city": "Patencheru",
+      "pm2.5": 34
+     },
+     {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "pm2.5": 88
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "pm2.5": 59
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "pm2.5": 74
+     },
+     {
+      "state": "West Bengal",
+      "city": "Barrackpore",
+      "pm2.5": 42
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm2.5": 69
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm2.5": 65
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm2.5": 74
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm2.5": 66
+     },
+     {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "pm2.5": 71
+     }
+    ]
+    }

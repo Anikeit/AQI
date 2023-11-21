@@ -1,0 +1,96 @@
+.Pollution {
+  width: 25%;
+  margin: 5px 70px;
+  color: black;
+}
+.ProjectInfo {
+  color: black;
+}
+
+.ProjectInfo h1 {
+  color: #252525;
+  font-family: Roboto;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 104px; /* 118.182% */
+  margin-left: 2.8vw;
+}
+.ProjectInfo h2 {
+  font-size: 2.3rem;
+}
+
+.PollutionTypes {
+  display: flex;
+  flex-direction: row;
+  height: min-content;
+  overflow-x: hidden;
+  width: 100%;
+}
+.Pollution h2 {
+  color: rgba(37, 37, 37, 0.55);
+  font-family: Roboto;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.Pollution p {
+  color: rgba(37, 37, 37, 0.8);
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: left;
+}
+.Pollution .PollutionImage {
+  width: 436px;
+  height: 500px;
+  flex-shrink: 0;
+  border-radius: 5px;
+}
+.Pollution .LinkIcon {
+  width: 25px;
+  margin-right: 5px;
+}
+@media only screen and (max-width: 768px) {
+  .ProjectInfo {
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    z-index: 10000;
+    width: 100%;
+  }
+  .PollutionTypes {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* margin: 5px 5px; */
+
+  }
+  .Pollution {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: start;
+   margin-left: 20px;
+  }
+  .Pollution p {
+    height: 100%;
+    margin-right: 20px;
+  }
+  .Pollution h2 {
+    font-size: 2.4rem;
+  }
+  .Pollution .PollutionImage {
+    height: 100vw;
+    width: auto;
+    margin: 0px 40px;
+    margin-left: 0px;
+  }
+  .ProjectInfo h1 {
+    font-size: 3rem;
+    line-height: 70px;
+  }
+}

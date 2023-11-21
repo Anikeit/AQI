@@ -1,0 +1,195 @@
+.container {
+  /* display: flex; */
+  border: 3px solid;
+  border-color: #cbc3e3;
+  min-height: 99%;
+  height: min-content;
+  border-radius: 20px;
+  margin-left: 3px;
+  margin-top: 4px;
+  /* background-color: #eae5e5; */
+  margin-bottom: 8px;
+}
+.chartComp {
+  color: black;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  width: 100%;
+  padding: 10px;
+  position: relative;
+  height: 45vh;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 32px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  font-family: poppins;
+}
+
+/* .form {
+  border: 1px solid;
+  height: max-content;
+  padding: 15px;
+} */
+.sel {
+  font-family: poppins;
+}
+.Year,
+.City,
+.State,
+.Element {
+  width: 400px;
+  height: 30px;
+  margin-bottom: 30px;
+}
+
+.form-yearwise{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 30px
+}
+
+.form-statewise{
+  /* display: flex; */
+  /* justify-content: space-evenly; */
+  align-items: center;
+  gap: 20px
+}
+
+.city-yearwise,
+.element-yearwise,
+.state-yearwise{
+  width: 250px;
+  height: 30px;
+  margin-bottom: 30px;
+}
+
+.year-statewise{
+  width: 150px;
+  height: 30px;
+  margin-bottom: 30px;
+}
+
+.state-statewise{
+  width: 360px;
+  height: 30px;
+  margin-bottom: 30px;
+}
+
+.element-statewise{
+  width: 200px;
+  height: 30px;
+  margin-bottom: 22px;
+  background-color: transparent;
+}
+
+.chartComp-yearwise {
+  color: black;
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* gap: 10px; */
+  width: 100%;
+  padding: 30px;
+  position: relative;
+  /* height: 70vh; */
+  justify-content: center;
+  align-items: center;
+}
+
+.chartComp-statewise {
+  color: black;
+  display: flex;
+  /* flex-direction: row; */
+  /* gap: 10px; */
+  width: 100%;
+  padding: 30px;
+  /* position: relative; */
+  /* height: 70vh; */
+  justify-content: center;
+  align-items: center;
+}
+
+.chartComp-statewise select{
+  border: 1px solid;
+  border-color: rgb(172, 170, 170);
+  background-color: white;
+  color: rgb(62, 62, 62);
+  height: 40px;
+  border-radius: 5px;
+  font-size: 1rem;
+  padding-left: 10px;
+}
+
+.chartComp-yearwise select,
+.chartComp select {
+  border: 1px solid;
+  /* border-color: #cbc3e3; */
+  border-color: rgb(172, 170, 170);
+  background-color: white;
+  color: rgb(62, 62, 62);
+  height: 40px;
+  border-radius: 10px;
+  font-size: 1rem;
+  /* text-align: center; */
+  padding-left: 10px;
+}
+
+.Element_chart {
+  border-radius: 7px;
+}
+
+.chart-container {
+  flex-grow: 1;
+}
+
+.statewise-chart-container {
+  flex-grow: 1;
+  margin-top: 100px;
+}
+.SelectComponent {
+  background-color: transparent;
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    margin: 0;
+  }
+  .chartComp {
+    width: 100vw;
+    padding: 10px;
+    left: 0;
+    height: 120vh;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .chartComp h1,
+  .heading {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 5px;
+    font-size: 1.5rem;
+    line-height: 1.16;
+    letter-spacing: -0.05rem;
+  }
+
+  .Year,
+  .City,
+  .State,
+  .Element {
+    display: block;
+    width: 100%;
+    margin: 5px auto;
+    height: 20vw;
+    font-size: 1rem;
+  }
+  .chart-container {
+    width: 100vw;
+  }
+}
