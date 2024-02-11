@@ -1,8 +1,14 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import StateViz from "./StateViz";
 import "../../styles/Chart.css";
 import Legend from "./Demographic/components/Legend";
 import LegendTable from "./Demographic/components/Table";
+import {
+  calculateAQI_NO2,
+  calculateAQI_PM10,
+  calculateAQI_PM2,
+  calculateAQI_SO2,
+} from "./AqiCalculator";
 
 // eslint-disable-next-line react/prop-types
 const DropDownComponent = ({ data }) => {
@@ -28,40 +34,31 @@ const DropDownComponent = ({ data }) => {
 
   const handleStateChange = (event) => {
     setSelectedState(event.target.value);
-    setSelectedCity("");
-    setSelectedElement("");
+    if (selectedCity) {
+      setSelectedCity("");
+    }
+    if (selectedElement) {
+      setSelectedElement("");
+    }
+    if (selectedNewEle) {
+      setSelectedNewEle("");
+    }
   };
 
   const handleCityChange = (event) => {
     setSelectedCity(event.target.value);
-    setSelectedElement("");
-  };
-  const handleElementChange = (event) => {
-    let elePm2 = "pm2.5";
-    let elePm10 = "pm10";
-    let eleSo2 = "So2";
-    let eleNo2 = "No2";
-    if (
-      event.target.value === "AQI" &&
-      selectedYear &&
-      selectedState &&
-      selectedCity
-    ) {
-      setSelectedNewEle("AQI");
-      if (data[selectedYear][selectedState][selectedCity][elePm10]) {
-        setSelectedElement(elePm10);
-      } else if (data[selectedYear][selectedState][selectedCity][elePm2]) {
-        setSelectedElement(elePm2);
-      } else if (data[selectedYear][selectedState][selectedCity][eleSo2]) {
-        setSelectedElement(eleSo2);
-      } else if (data[selectedYear][selectedState][selectedCity][eleNo2]) {
-        setSelectedElement(eleNo2);
-      }
-    } else {
-      setSelectedElement(event.target.value);
-      setSelectedNewEle(event.target.value);
+    if (selectedElement) {
+      setSelectedElement("");
+    }
+    if (selectedNewEle) {
+      setSelectedNewEle("");
     }
   };
+  const handleElementChange = (event) => {
+    setSelectedElement(event.target.value);
+    setSelectedNewEle(event.target.value);
+  };
+
   let allData = [];
   if (
     selectedCity &&
@@ -78,52 +75,57 @@ const DropDownComponent = ({ data }) => {
       ) {
         allData.push({
           year: i,
-          data: data[i][selectedState][selectedCity][ele],
+          'ug/m3' : data[i][selectedState][selectedCity][ele],
         });
       }
     }
-    // console.log(allData);
   } else if (
     selectedCity &&
-    selectedElement &&
+    selectedState &&
     selectedElement &&
     selectedNewEle == "AQI"
   ) {
-    let reqpm10 = 150;
-    let reqpm2 = 60;
-    let reqso2 = 50;
-    let reqno2 = 40;
+    let AQIpm10 = 0,
+      AQIpm2 = 0,
+      AQIso2 = 0,
+      AQIno2 = 0;
     for (let i = 2013; i < 2022; i++) {
-      let ele = selectedElement;
       if (
         data[i] &&
         data[i][selectedState] &&
         data[i][selectedState][selectedCity]
       ) {
-        if (ele == "pm10")
-          allData.push({
-            year: i,
-            data: (data[i][selectedState][selectedCity][ele] / reqpm10) * 100,
-          });
-        else if (ele == "pm2.5") {
-          allData.push({
-            year: i,
-            data: (data[i][selectedState][selectedCity][ele] / reqpm2) * 100,
-          });
-        } else if (ele == "So2") {
-          allData.push({
-            year: i,
-            data: (data[i][selectedState][selectedCity][ele] / reqso2) * 100,
-          });
-        } else if (ele == "No2") {
-          allData.push({
-            year: i,
-            data: (data[i][selectedState][selectedCity][ele] / reqno2) * 100,
-          });
+        if (!isNaN(data[i][selectedState][selectedCity]["pm10"])) {
+          AQIpm10 = calculateAQI_PM10(
+            data[i][selectedState][selectedCity]["pm10"]
+          );
+        }
+        if (!isNaN(data[i][selectedState][selectedCity]["pm2"])) {
+          AQIpm2 = calculateAQI_PM2(
+            data[i][selectedState][selectedCity]["pm2"]
+          );
+        }
+        if (!isNaN(data[i][selectedState][selectedCity]["So2"])) {
+          AQIso2 = calculateAQI_SO2(
+            data[i][selectedState][selectedCity]["So2"]
+          );
+        }
+        if (!isNaN(data[i][selectedState][selectedCity]["No2"])) {
+          AQIno2 = calculateAQI_NO2(
+            data[i][selectedState][selectedCity]["No2"]
+          );
         }
       }
+      let calcAQI = Math.max(AQIpm10, AQIpm2, AQIno2, AQIso2);
+      if (!AQIpm10 && !AQIpm2) {
+        continue;
+      } else if (calcAQI) {
+        allData.push({
+          year: i,
+          'ug/m3' : calcAQI,
+        });
+      }
     }
-    // console.log(allData);
   }
 
   return (
@@ -186,8 +188,8 @@ const DropDownComponent = ({ data }) => {
           {allData != null && <StateViz data={allData} />}
         </div>
       </div>
-      {allData != null && (
-        <div>
+      {allData != null && selectedElement && (
+        <div style={{ padding: "20px" }}>
           <LegendTable element={selectedElement} />
         </div>
       )}

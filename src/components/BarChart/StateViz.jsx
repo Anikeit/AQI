@@ -45,7 +45,7 @@ const StateViz = (prop) => {
           <Tooltip />
           <Line
             type="monotone"
-            dataKey="data"
+            dataKey="ug/m3"
             stroke="#8884d8"
             activeDot={{ r: 8 }}
           />

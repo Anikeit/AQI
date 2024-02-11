@@ -43,7 +43,6 @@ const Legend = ({ element }) => {
   ];
 
   const renderLegend = (element) => {
-    console.log(element);
     if (element === "So2") {
       return So2.map((obj) => {
         return (
@@ -132,12 +131,14 @@ const Legend = ({ element }) => {
 
   return (
     <div
-      className="flex flex-row items-center w-screen mr-3"
-      //   style={{
-      //     display: "flex",
-      //     justifyContent: "center",
-      //     alignItems: "center",
-      //   }}
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          position: 'absolute',
+          right: '20px',
+          top : '50px'
+        }}
     >
       {element ? renderLegend(element) : null}
     </div>

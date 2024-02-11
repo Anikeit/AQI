@@ -98,9 +98,9 @@ const Sidebar = ({
         >
           Demographic Graph
         </div>
-        <Link to="/" className="GoHome">
+        {/* <Link to="/" className="GoHome">
           Home
-        </Link>
+        </Link> */}
       </nav>
     </div>
   );

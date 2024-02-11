@@ -59,7 +59,7 @@ const LegendTable = ({ element }) => {
 
   return (
     <div className="table-container">
-      <h2 className="table-title">Legend ({element})</h2>
+      {/* <h2 className="table-title"></h2> */}
       <table className="legend-table">
         <thead>
           <tr>
@@ -93,7 +93,7 @@ const LegendTable = ({ element }) => {
                 padding: 2,
               }}
             >
-              Health Remark
+              Health Impacts
             </th>
           </tr>
         </thead>
