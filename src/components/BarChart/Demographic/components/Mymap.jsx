@@ -279,6 +279,7 @@ function Mymap() {
             style={{ width: "77%" }}
             zoom={4.5}
             center={[23, 82]}
+            
           >
             <Legend element={selectoption.element}></Legend>
             <GeoJSON

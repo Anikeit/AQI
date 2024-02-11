@@ -1,6 +1,8 @@
 import { useState } from "react";
 import StateViz from "./StateViz";
 import "../../styles/Chart.css";
+import Legend from "./Demographic/components/Legend";
+import LegendTable from "./Demographic/components/Table";
 
 // eslint-disable-next-line react/prop-types
 const DropDownComponent = ({ data }) => {
@@ -125,7 +127,7 @@ const DropDownComponent = ({ data }) => {
   }
 
   return (
-    <div className="container">
+    <div className="container ">
       <div className="heading">Year Wise Comparison</div>
       <div className="chartComp-yearwise">
         <div className="form-yearwise">
@@ -184,6 +186,11 @@ const DropDownComponent = ({ data }) => {
           {allData != null && <StateViz data={allData} />}
         </div>
       </div>
+      {allData != null && (
+        <div>
+          <LegendTable element={selectedElement} />
+        </div>
+      )}
     </div>
   );
 };
