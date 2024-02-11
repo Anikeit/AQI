@@ -188,9 +188,9 @@ const DropDownComponent = ({ data }) => {
           {allData != null && <StateViz data={allData} />}
         </div>
       </div>
-      {allData != null && selectedElement && (
-        <div style={{ padding: "20px" }}>
-          <LegendTable element={selectedElement} />
+      {allData != null && selectedNewEle && (
+        <div style={{ padding: "15px" }}>
+          <LegendTable element={selectedNewEle} />
         </div>
       )}
     </div>

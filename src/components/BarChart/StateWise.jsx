@@ -2,6 +2,7 @@ import { useState } from "react";
 import Select from "react-select";
 import Viz2 from "./Viz2";
 import "../../styles/Chart.css";
+import LegendTable from "./Demographic/components/Table";
 // eslint-disable-next-line react/prop-types
 const StateWise = ({ data }) => {
   const [selectedYear, setSelectedYear] = useState(null);
@@ -198,6 +199,11 @@ const StateWise = ({ data }) => {
         <div className="statewise-chart-container">
           {alldata2 != null && <Viz2 data={alldata2} />}
         </div>
+        {alldata2 != null && selectedNewEle && (
+          <div>
+            <LegendTable element={selectedNewEle} />
+          </div>
+        )}
       </div>
     </div>
   );
