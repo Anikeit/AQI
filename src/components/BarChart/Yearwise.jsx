@@ -129,7 +129,7 @@ const DropDownComponent = ({ data }) => {
   }
 
   return (
-    <div className="container ">
+    <div className="container">
       <div className="heading">Year Wise Comparison</div>
       <div className="chartComp-yearwise">
         <div className="form-yearwise">

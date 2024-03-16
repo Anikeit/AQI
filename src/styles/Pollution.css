@@ -94,3 +94,7 @@
     line-height: 70px;
   }
 }
+
+.recharts-responsive-container{
+  height: 400px;
+}

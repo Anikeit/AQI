@@ -14,6 +14,10 @@ const Sidebar = ({
   showCitywise,
   // eslint-disable-next-line react/prop-types
   showDemographic,
+  // eslint-disable-next-line react/prop-types
+  showPieChart,
+  // eslint-disable-next-line react/prop-types
+  showRankBarChart,
 }) => {
   const [active, setActive] = useState(false);
   const [selectedItem, setSelectedItem] = useState("yearwise"); // Default to "Year Wise Comparison"
@@ -97,6 +101,28 @@ const Sidebar = ({
           }}
         >
           Demographic Graph
+        </div>
+        <div
+          className={`sidebar-item ${
+            selectedItem === "piechart" ? "selected" : ""
+          }`}
+          onClick={() => {
+            onItemClick("piechart");
+            showPieChart();
+          }}
+        >
+          Pie Chart
+        </div>
+        <div
+          className={`sidebar-item ${
+            selectedItem === "rankbarchart" ? "selected" : ""
+          }`}
+          onClick={() => {
+            onItemClick("rankbarchart");
+            showRankBarChart();
+          }}
+        >
+          Rank Bar Chart
         </div>
         {/* <Link to="/" className="GoHome">
           Home

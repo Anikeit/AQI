@@ -22,6 +22,17 @@
   justify-content: center;
   align-items: center;
 }
+.chartCompPie {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  padding: 10px;
+  position: relative;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
 .heading {
   font-size: 32px;
   color: black;
@@ -141,6 +152,19 @@
   padding-left: 10px;
 }
 
+.chartCompPie select {
+  border: 1px solid;
+  /* border-color: #cbc3e3; */
+  border-color: rgb(172, 170, 170);
+  background-color: white;
+  color: rgb(62, 62, 62);
+  height: 40px;
+  border-radius: 10px;
+  font-size: 1rem;
+  /* text-align: center; */
+  padding-left: 10px;
+}
+
 .Element_chart {
   border-radius: 7px;
 }
@@ -173,6 +197,28 @@
     text-align: center;
   }
   .chartComp h1,
+  .heading {
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 5px;
+    font-size: 1.5rem;
+    line-height: 1.16;
+    letter-spacing: -0.05rem;
+  }
+
+  .chartCompPie {
+    max-width: 100%;
+    padding: 10px;
+    left: 0;
+    height: 120vh;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: center;
+  }
+  .chartCompPie h1,
   .heading {
     padding-left: 10px;
     margin-top: 20px;
